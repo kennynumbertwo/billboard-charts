@@ -1,0 +1,112 @@
+{
+    "_max_retries": 5,
+    "_timeout": 25,
+    "date": "2022-04-09",
+    "entries": [
+        {
+            "artist": "Dolly Parton",
+            "image": null,
+            "isNew": false,
+            "lastPos": 1,
+            "peakPos": 1,
+            "rank": 1,
+            "title": "Run, Rose, Run",
+            "weeks": 4
+        },
+        {
+            "artist": "Robert Plant / Alison Krauss",
+            "image": null,
+            "isNew": false,
+            "lastPos": 2,
+            "peakPos": 1,
+            "rank": 2,
+            "title": "Raise The Roof",
+            "weeks": 19
+        },
+        {
+            "artist": "Sturgill Simpson",
+            "image": null,
+            "isNew": false,
+            "lastPos": 3,
+            "peakPos": 1,
+            "rank": 3,
+            "title": "The Ballad Of Dood & Juanita",
+            "weeks": 32
+        },
+        {
+            "artist": "Billy Strings",
+            "image": null,
+            "isNew": false,
+            "lastPos": 4,
+            "peakPos": 1,
+            "rank": 4,
+            "title": "Renewal",
+            "weeks": 27
+        },
+        {
+            "artist": "Chosen Road",
+            "image": null,
+            "isNew": false,
+            "lastPos": 0,
+            "peakPos": 4,
+            "rank": 5,
+            "title": "Appalachian Hymns",
+            "weeks": 2
+        },
+        {
+            "artist": "Sturgill Simpson",
+            "image": null,
+            "isNew": false,
+            "lastPos": 7,
+            "peakPos": 1,
+            "rank": 6,
+            "title": "Cuttin' Grass, Vol. 2: The Cowboy Arms Sessions",
+            "weeks": 68
+        },
+        {
+            "artist": "Sturgill Simpson",
+            "image": null,
+            "isNew": false,
+            "lastPos": 6,
+            "peakPos": 1,
+            "rank": 7,
+            "title": "Cuttin' Grass, Vol. 1: The Butcher Shoppe Sessions",
+            "weeks": 76
+        },
+        {
+            "artist": "The Po' Ramblin' Boys",
+            "image": null,
+            "isNew": true,
+            "lastPos": 0,
+            "peakPos": 8,
+            "rank": 8,
+            "title": "Never Slow Down",
+            "weeks": 1
+        },
+        {
+            "artist": "Punch Brothers",
+            "image": null,
+            "isNew": false,
+            "lastPos": 5,
+            "peakPos": 1,
+            "rank": 9,
+            "title": "Hell On Church Street",
+            "weeks": 11
+        },
+        {
+            "artist": "John Hiatt With The Jerry Douglas Band",
+            "image": null,
+            "isNew": false,
+            "lastPos": 0,
+            "peakPos": 1,
+            "rank": 10,
+            "title": "Leftover Feelings",
+            "weeks": 40
+        }
+    ],
+    "name": "bluegrass-albums",
+    "nextDate": null,
+    "previousDate": null,
+    "title": "Bluegrass Albums",
+    "year": null
+}

@@ -1,0 +1,612 @@
+{
+    "_max_retries": 5,
+    "_timeout": 25,
+    "date": null,
+    "entries": [
+        {
+            "artist": "The Weeknd",
+            "image": "https://charts-static.billboard.com/img/2019/12/the-weeknd-nsd-blinding-lights-gfd-53x53.jpg",
+            "rank": 1,
+            "title": "Blinding Lights"
+        },
+        {
+            "artist": "Post Malone",
+            "image": "https://charts-static.billboard.com/img/2019/09/post-malone-tp6-circles-sb0-53x53.jpg",
+            "rank": 2,
+            "title": "Circles"
+        },
+        {
+            "artist": "Roddy Ricch",
+            "image": "https://charts-static.billboard.com/img/2019/12/roddy-ricch-eqp-the-box-2k7-53x53.jpg",
+            "rank": 3,
+            "title": "The Box"
+        },
+        {
+            "artist": "Dua Lipa",
+            "image": "https://charts-static.billboard.com/img/2019/11/dua-lipa-eqf-dont-start-now-q9p-53x53.jpg",
+            "rank": 4,
+            "title": "Don't Start Now"
+        },
+        {
+            "artist": "DaBaby Featuring Roddy Ricch",
+            "image": "https://charts-static.billboard.com/img/2017/01/dababy-sfn-53x53.jpg",
+            "rank": 5,
+            "title": "Rockstar"
+        },
+        {
+            "artist": "Harry Styles",
+            "image": "https://charts-static.billboard.com/img/2019/12/harry-styles-psx-adore-you-n45-53x53.jpg",
+            "rank": 6,
+            "title": "Adore You"
+        },
+        {
+            "artist": "Future Featuring Drake",
+            "image": "https://charts-static.billboard.com/img/2020/01/future-tsu-life-is-good-rko-53x53.jpg",
+            "rank": 7,
+            "title": "Life Is Good"
+        },
+        {
+            "artist": "Maroon 5",
+            "image": "https://charts-static.billboard.com/img/2019/09/maroon-5-vhb-memories-cnj-53x53.jpg",
+            "rank": 8,
+            "title": "Memories"
+        },
+        {
+            "artist": "Maren Morris",
+            "image": "https://charts-static.billboard.com/img/2019/03/maren-morris-knd-the-bones-u43-53x53.jpg",
+            "rank": 9,
+            "title": "The Bones"
+        },
+        {
+            "artist": "Lewis Capaldi",
+            "image": "https://charts-static.billboard.com/img/2019/03/lewis-capaldi-s2h-someone-you-loved-em0-53x53.jpg",
+            "rank": 10,
+            "title": "Someone You Loved"
+        },
+        {
+            "artist": "Doja Cat",
+            "image": "https://charts-static.billboard.com/img/2019/12/doja-cat-cd8-say-so-z1g-53x53.jpg",
+            "rank": 11,
+            "title": "Say So"
+        },
+        {
+            "artist": "Gabby Barrett Featuring Charlie Puth",
+            "image": "https://charts-static.billboard.com/img/2019/03/gabby-barrett-l86-i-hope-mnv-53x53.jpg",
+            "rank": 12,
+            "title": "I Hope"
+        },
+        {
+            "artist": "Jack Harlow Featuring DaBaby, Tory Lanez & Lil Wayne",
+            "image": "https://charts-static.billboard.com/img/2020/02/jack-harlow-16c-whats-poppin-fly-53x53.jpg",
+            "rank": 13,
+            "title": "Whats Poppin"
+        },
+        {
+            "artist": "Tones And I",
+            "image": "https://charts-static.billboard.com/img/2019/08/tones-and-i-e8g-dance-monkey-945-53x53.jpg",
+            "rank": 14,
+            "title": "Dance Monkey"
+        },
+        {
+            "artist": "Megan Thee Stallion",
+            "image": "https://charts-static.billboard.com/img/2020/03/megan-thee-stallion-z0z-savage-7q2-53x53.jpg",
+            "rank": 15,
+            "title": "Savage"
+        },
+        {
+            "artist": "Arizona Zervas",
+            "image": "https://charts-static.billboard.com/img/2019/11/arizona-zervas-egt-roxanne-5y8-53x53.jpg",
+            "rank": 16,
+            "title": "Roxanne"
+        },
+        {
+            "artist": "Justin Bieber Featuring Quavo",
+            "image": "https://charts-static.billboard.com/img/2020/02/justin-bieber-09y-intentions-w81-53x53.jpg",
+            "rank": 17,
+            "title": "Intentions"
+        },
+        {
+            "artist": "Billie Eilish",
+            "image": "https://charts-static.billboard.com/img/2019/11/billie-eilish-acb-everything-i-wanted-mj1-53x53.jpg",
+            "rank": 18,
+            "title": "Everything I Wanted"
+        },
+        {
+            "artist": "SAINt JHN",
+            "image": "https://charts-static.billboard.com/img/2019/10/saint-jhn-y2f-roses-0g4-53x53.jpg",
+            "rank": 19,
+            "title": "Roses"
+        },
+        {
+            "artist": "Harry Styles",
+            "image": "https://charts-static.billboard.com/img/2019/11/harry-styles-bma-watermelon-sugar-nys-53x53.jpg",
+            "rank": 20,
+            "title": "Watermelon Sugar"
+        },
+        {
+            "artist": "Lewis Capaldi",
+            "image": "https://charts-static.billboard.com/img/2017/04/lewis-capaldi-s2h-53x53.jpg",
+            "rank": 21,
+            "title": "Before You Go"
+        },
+        {
+            "artist": "Trevor Daniel",
+            "image": "https://charts-static.billboard.com/img/2019/11/trevor-daniel-9ow-falling-gtf-53x53.jpg",
+            "rank": 22,
+            "title": "Falling"
+        },
+        {
+            "artist": "Dan + Shay & Justin Bieber",
+            "image": "https://charts-static.billboard.com/img/2019/10/dan-shay-aqf-10000-hours-e1h-53x53.jpg",
+            "rank": 23,
+            "title": "10,000 Hours"
+        },
+        {
+            "artist": "Cardi B Featuring Megan Thee Stallion",
+            "image": "https://charts-static.billboard.com/img/2016/03/cardi-b-n38-87x87.jpg",
+            "rank": 24,
+            "title": "WAP"
+        },
+        {
+            "artist": "Mustard & Roddy Ricch",
+            "image": "https://charts-static.billboard.com/img/2019/07/mustard-000-ballin-3hx-53x53.jpg",
+            "rank": 25,
+            "title": "Ballin'"
+        },
+        {
+            "artist": "blackbear",
+            "image": "https://charts-static.billboard.com/img/2019/09/blackbear-nbm-hot-girl-bummer-nvt-53x53.jpg",
+            "rank": 26,
+            "title": "Hot Girl Bummer"
+        },
+        {
+            "artist": "Lil Mosey",
+            "image": "https://charts-static.billboard.com/img/2020/02/lil-mosey-hjw-blueberry-faygo-e1e-53x53.jpg",
+            "rank": 27,
+            "title": "Blueberry Faygo"
+        },
+        {
+            "artist": "The Weeknd",
+            "image": "https://charts-static.billboard.com/img/2019/12/the-weeknd-uyi-heartless-6te-53x53.jpg",
+            "rank": 28,
+            "title": "Heartless"
+        },
+        {
+            "artist": "DaBaby",
+            "image": "https://charts-static.billboard.com/img/2019/10/dababy-sfn-bop-3fy-53x53.jpg",
+            "rank": 29,
+            "title": "BOP"
+        },
+        {
+            "artist": "Selena Gomez",
+            "image": "https://charts-static.billboard.com/img/2019/11/selena-gomez-nxt-lose-you-to-love-me-ygt-53x53.jpg",
+            "rank": 30,
+            "title": "Lose You To Love Me"
+        },
+        {
+            "artist": "Lizzo",
+            "image": "https://charts-static.billboard.com/img/2016/04/lizzo-w3u-good-as-hell-lpw-53x53.jpg",
+            "rank": 31,
+            "title": "Good As Hell"
+        },
+        {
+            "artist": "Drake",
+            "image": "https://charts-static.billboard.com/img/2020/04/drake-p3d-toosie-slide-e5w-53x53.jpg",
+            "rank": 32,
+            "title": "Toosie Slide"
+        },
+        {
+            "artist": "Dua Lipa",
+            "image": "https://charts-static.billboard.com/img/2020/04/dua-lipa-eqf-break-my-heart-641-53x53.jpg",
+            "rank": 33,
+            "title": "Break My Heart"
+        },
+        {
+            "artist": "Morgan Wallen",
+            "image": "https://charts-static.billboard.com/img/2016/08/morgan-wallen-ur7-87x87.jpg",
+            "rank": 34,
+            "title": "Chasin' You"
+        },
+        {
+            "artist": "Jawsh 685 x Jason Derulo",
+            "image": "https://charts-static.billboard.com/img/1840/12/jason-derulo-d0c-53x53.jpg",
+            "rank": 35,
+            "title": "Savage Love (Laxed - Siren Beat)"
+        },
+        {
+            "artist": "Chris Brown Featuring Drake",
+            "image": "https://charts-static.billboard.com/img/2019/06/chris-brown-abf-no-guidance-yi0-53x53.jpg",
+            "rank": 36,
+            "title": "No Guidance"
+        },
+        {
+            "artist": "Camila Cabello Featuring DaBaby",
+            "image": "https://charts-static.billboard.com/img/2016/11/camila-cabello-53x53.jpg",
+            "rank": 37,
+            "title": "My Oh My"
+        },
+        {
+            "artist": "BTS",
+            "image": "https://charts-static.billboard.com/img/2020/08/bts-mv7-dynamite-9ep-53x53.jpg",
+            "rank": 38,
+            "title": "Dynamite"
+        },
+        {
+            "artist": "Chris Brown & Young Thug",
+            "image": "https://charts-static.billboard.com/img/2005/07/chris-brown-abf-53x53.jpg",
+            "rank": 39,
+            "title": "Go Crazy"
+        },
+        {
+            "artist": "Roddy Ricch Featuring Mustard",
+            "image": "https://charts-static.billboard.com/img/2018/11/roddy-ricch-eqp-53x53.jpg",
+            "rank": 40,
+            "title": "High Fashion"
+        },
+        {
+            "artist": "Drake Featuring Lil Durk",
+            "image": "https://charts-static.billboard.com/img/2020/08/drake-p3d-laugh-now-cry-later-lo5-53x53.jpg",
+            "rank": 41,
+            "title": "Laugh Now Cry Later"
+        },
+        {
+            "artist": "Lil Baby",
+            "image": "https://charts-static.billboard.com/img/2019/11/lil-baby-nwx-woah-h7f-53x53.jpg",
+            "rank": 42,
+            "title": "Woah"
+        },
+        {
+            "artist": "Powfu Featuring beabadoobee",
+            "image": "https://charts-static.billboard.com/img/2020/03/powfu-000-death-bed-ne9-53x53.jpg",
+            "rank": 43,
+            "title": "Death Bed"
+        },
+        {
+            "artist": "Shawn Mendes & Camila Cabello",
+            "image": "https://charts-static.billboard.com/img/2019/06/shawn-mendes-drf-senorita-qa7-53x53.jpg",
+            "rank": 44,
+            "title": "Senorita"
+        },
+        {
+            "artist": "Travis Scott",
+            "image": "https://charts-static.billboard.com/img/2019/10/travis-scott-jll-highest-in-the-room-1tw-53x53.jpg",
+            "rank": 45,
+            "title": "HIGHEST IN THE ROOM"
+        },
+        {
+            "artist": "Billie Eilish",
+            "image": "https://charts-static.billboard.com/img/2019/04/billie-eilish-acb-bad-guy-7mt-53x53.jpg",
+            "rank": 46,
+            "title": "Bad Guy"
+        },
+        {
+            "artist": "24kGoldn Featuring iann dior",
+            "image": "https://charts-static.billboard.com/img/2020/08/24kgoldn-hvh-mood-23c-53x53.jpg",
+            "rank": 47,
+            "title": "Mood"
+        },
+        {
+            "artist": "Lady Gaga & Ariana Grande",
+            "image": "https://charts-static.billboard.com/img/2020/05/lady-gaga-b8x-rain-on-me-n1e-53x53.jpg",
+            "rank": 48,
+            "title": "Rain On Me"
+        },
+        {
+            "artist": "Pop Smoke Featuring Lil Baby & DaBaby",
+            "image": "https://charts-static.billboard.com/img/2019/08/pop-smoke-5gi-53x53.jpg",
+            "rank": 49,
+            "title": "For The Night"
+        },
+        {
+            "artist": "Black Eyed Peas X J Balvin",
+            "image": "https://charts-static.billboard.com/img/2019/10/the-black-eyed-peas-kvc-ritmo-bad-boys-for-life-2fu-53x53.jpg",
+            "rank": 50,
+            "title": "RITMO (Bad Boys For Life)"
+        },
+        {
+            "artist": "Rod Wave",
+            "image": "https://charts-static.billboard.com/img/2019/11/rod-wave-000-heart-on-ice-02e-53x53.jpg",
+            "rank": 51,
+            "title": "Heart On Ice"
+        },
+        {
+            "artist": "Blake Shelton Duet With Gwen Stefani",
+            "image": "https://charts-static.billboard.com/img/2019/12/blake-shelton-m3d-nobody-but-you-29g-53x53.jpg",
+            "rank": 52,
+            "title": "Nobody But You"
+        },
+        {
+            "artist": "SHAED",
+            "image": "https://charts-static.billboard.com/img/2018/12/shaed-ffm-trampoline-3c7-53x53.jpg",
+            "rank": 53,
+            "title": "Trampoline"
+        },
+        {
+            "artist": "Juice WRLD x Marshmello",
+            "image": "https://charts-static.billboard.com/img/2020/07/juice-wrld-t5o-come-and-go-smi-53x53.jpg",
+            "rank": 54,
+            "title": "Come & Go"
+        },
+        {
+            "artist": "Lizzo",
+            "image": "https://charts-static.billboard.com/img/2019/05/lizzo-w3u-truth-hurts-tmm-53x53.jpg",
+            "rank": 55,
+            "title": "Truth Hurts"
+        },
+        {
+            "artist": "JP Saxe Featuring Julia Michaels",
+            "image": "https://charts-static.billboard.com/img/2019/11/jp-saxe-000-if-the-world-was-ending-dnj-53x53.jpg",
+            "rank": 56,
+            "title": "If The World Was Ending"
+        },
+        {
+            "artist": "Lil Baby & 42 Dugg",
+            "image": "https://charts-static.billboard.com/img/2017/11/lil-baby-nwx-53x53.jpg",
+            "rank": 57,
+            "title": "We Paid"
+        },
+        {
+            "artist": "Justin Bieber",
+            "image": "https://charts-static.billboard.com/img/2020/01/justin-bieber-4oh-yummy-vs5-53x53.jpg",
+            "rank": 58,
+            "title": "Yummy"
+        },
+        {
+            "artist": "Old Dominion",
+            "image": "https://charts-static.billboard.com/img/2019/02/old-dominion-umh-one-man-band-kmy-53x53.jpg",
+            "rank": 59,
+            "title": "One Man Band"
+        },
+        {
+            "artist": "Jason Aldean",
+            "image": "https://charts-static.billboard.com/img/2005/04/jason-aldean-uq3-53x53.jpg",
+            "rank": 60,
+            "title": "Got What I Got"
+        },
+        {
+            "artist": "Surfaces",
+            "image": "https://charts-static.billboard.com/img/2019/08/surfaces-uoi-53x53.jpg",
+            "rank": 61,
+            "title": "Sunday Best"
+        },
+        {
+            "artist": "Eminem Featuring Juice WRLD",
+            "image": "https://charts-static.billboard.com/img/2020/02/eminem-6zg-godzilla-r12-53x53.jpg",
+            "rank": 62,
+            "title": "Godzilla"
+        },
+        {
+            "artist": "Juice WRLD & YoungBoy Never Broke Again",
+            "image": "https://charts-static.billboard.com/img/2019/10/juice-wrld-t5o-bandit-fcz-53x53.jpg",
+            "rank": 63,
+            "title": "Bandit"
+        },
+        {
+            "artist": "StaySolidRocky",
+            "image": "https://charts-static.billboard.com/img/2020/05/staysolidrocky-000-party-girl-8dm-53x53.jpg",
+            "rank": 64,
+            "title": "Party Girl"
+        },
+        {
+            "artist": "Maddie & Tae",
+            "image": "https://charts-static.billboard.com/img/2018/12/maddie-tae-uwd-die-from-a-broken-heart-h1l-53x53.jpg",
+            "rank": 65,
+            "title": "Die From A Broken Heart"
+        },
+        {
+            "artist": "DJ Khaled Featuring Drake",
+            "image": "https://charts-static.billboard.com/img/2020/07/dj-khaled-8dc-popstar-t9f-53x53.jpg",
+            "rank": 66,
+            "title": "Popstar"
+        },
+        {
+            "artist": "Mariah Carey",
+            "image": "https://charts-static.billboard.com/img/1994/12/mariah-carey-99g-all-i-want-for-christmas-is-you-3w0-53x53.jpg",
+            "rank": 67,
+            "title": "All I Want For Christmas Is You"
+        },
+        {
+            "artist": "Lee Brice",
+            "image": "https://charts-static.billboard.com/img/2007/03/lee-brice-vvw-53x53.jpg",
+            "rank": 68,
+            "title": "One Of Them Girls"
+        },
+        {
+            "artist": "Sam Hunt",
+            "image": "https://charts-static.billboard.com/img/2014/06/sam-hunt-2mf-87x87.jpg",
+            "rank": 69,
+            "title": "Hard To Forget"
+        },
+        {
+            "artist": "Luke Bryan",
+            "image": "https://www.billboard.com/assets/1607630108/images/charts/bb-placeholder-new.jpg?0183421647667b7c74fa",
+            "rank": 70,
+            "title": "One Margarita"
+        },
+        {
+            "artist": "Lil Nas X",
+            "image": "https://charts-static.billboard.com/img/2019/07/lil-nas-x-zl6-panini-0g9-53x53.jpg",
+            "rank": 71,
+            "title": "Panini"
+        },
+        {
+            "artist": "Young Thug Featuring Gunna",
+            "image": "https://charts-static.billboard.com/img/2017/08/young-thug-53x53.jpg",
+            "rank": 72,
+            "title": "Hot"
+        },
+        {
+            "artist": "Carly Pearce & Lee Brice",
+            "image": "https://charts-static.billboard.com/img/2019/10/carly-pearce-rdp-i-hope-youre-happy-now-1s8-53x53.jpg",
+            "rank": 73,
+            "title": "I Hope You're Happy Now"
+        },
+        {
+            "artist": "Lil Baby",
+            "image": "https://charts-static.billboard.com/img/2017/11/lil-baby-nwx-53x53.jpg",
+            "rank": 74,
+            "title": "Emotionally Scarred"
+        },
+        {
+            "artist": "YNW Melly & Juice WRLD",
+            "image": "https://charts-static.billboard.com/img/2019/12/ynw-melly-000-suicidal-ptj-53x53.jpg",
+            "rank": 75,
+            "title": "Suicidal"
+        },
+        {
+            "artist": "Lil Baby",
+            "image": "https://charts-static.billboard.com/img/2020/06/lil-baby-lbq-the-bigger-picture-678-53x53.jpg",
+            "rank": 76,
+            "title": "The Bigger Picture"
+        },
+        {
+            "artist": "Jonas Brothers",
+            "image": "https://charts-static.billboard.com/img/2006/08/jonas-brothers-r3d-53x53.jpg",
+            "rank": 77,
+            "title": "Only Human"
+        },
+        {
+            "artist": "Pop Smoke Featuring 50 Cent & Roddy Ricch",
+            "image": "https://charts-static.billboard.com/img/2019/08/pop-smoke-5gi-53x53.jpg",
+            "rank": 78,
+            "title": "The Woo"
+        },
+        {
+            "artist": "Lil Baby",
+            "image": "https://charts-static.billboard.com/img/2017/11/lil-baby-nwx-53x53.jpg",
+            "rank": 79,
+            "title": "Sum 2 Prove"
+        },
+        {
+            "artist": "Ariana Grande & Justin Bieber",
+            "image": "https://charts-static.billboard.com/img/2020/05/ariana-grande-and-justin-bieber-000-stuck-with-u-yqg-53x53.jpg",
+            "rank": 80,
+            "title": "Stuck With U"
+        },
+        {
+            "artist": "Pop Smoke Featuring Lil Tjay",
+            "image": "https://charts-static.billboard.com/img/2019/08/pop-smoke-5gi-53x53.jpg",
+            "rank": 81,
+            "title": "Mood Swings"
+        },
+        {
+            "artist": "Halsey",
+            "image": "https://charts-static.billboard.com/img/2020/01/halsey-iqm-you-should-be-sad-gqk-53x53.jpg",
+            "rank": 82,
+            "title": "You Should Be Sad"
+        },
+        {
+            "artist": "Pop Smoke",
+            "image": "https://charts-static.billboard.com/img/2019/08/pop-smoke-5gi-53x53.jpg",
+            "rank": 83,
+            "title": "Dior"
+        },
+        {
+            "artist": "BENEE Featuring Gus Dapperton",
+            "image": "https://charts-static.billboard.com/img/2019/02/benee-6vi-53x53.jpg",
+            "rank": 84,
+            "title": "Supalonely"
+        },
+        {
+            "artist": "Luke Combs",
+            "image": "https://charts-static.billboard.com/img/2019/06/luke-combs-y14-even-though-im-leaving-1hd-53x53.jpg",
+            "rank": 85,
+            "title": "Even Though I'm Leaving"
+        },
+        {
+            "artist": "THE SCOTTS, Travis Scott & Kid Cudi",
+            "image": "https://charts-static.billboard.com/img/2020/05/the-scotts-000-the-scotts-huk-53x53.jpg",
+            "rank": 86,
+            "title": "The Scotts"
+        },
+        {
+            "artist": "Doja Cat & Tyga",
+            "image": "https://charts-static.billboard.com/img/2019/08/doja-cat-000-juicy-ly4-53x53.jpg",
+            "rank": 87,
+            "title": "Juicy"
+        },
+        {
+            "artist": "Kane Brown With Swae Lee & Khalid",
+            "image": "https://charts-static.billboard.com/img/2020/07/kane-brown-wbb-be-like-that-xpg-53x53.jpg",
+            "rank": 88,
+            "title": "Be Like That"
+        },
+        {
+            "artist": "Kane Brown",
+            "image": "https://charts-static.billboard.com/img/2018/09/kane-brown-ndj-homesick-70q-53x53.jpg",
+            "rank": 89,
+            "title": "Homesick"
+        },
+        {
+            "artist": "Rod Wave Featuring ATR Son Son",
+            "image": "https://charts-static.billboard.com/img/2019/06/rod-wave-i1w-53x53.jpg",
+            "rank": 90,
+            "title": "Rags2Riches"
+        },
+        {
+            "artist": "Miranda Lambert",
+            "image": "https://charts-static.billboard.com/img/2019/11/miranda-lambert-mzw-bluebird-ueu-53x53.jpg",
+            "rank": 91,
+            "title": "Bluebird"
+        },
+        {
+            "artist": "Juice WRLD",
+            "image": "https://charts-static.billboard.com/img/2018/05/juice-wrld-2go-53x53.jpg",
+            "rank": 92,
+            "title": "Wishing Well"
+        },
+        {
+            "artist": "Luke Combs Featuring Eric Church",
+            "image": "https://charts-static.billboard.com/img/2019/11/luke-combs-m9g-does-to-me-9ea-53x53.jpg",
+            "rank": 93,
+            "title": "Does To Me"
+        },
+        {
+            "artist": "Jhene Aiko",
+            "image": "https://charts-static.billboard.com/img/2020/02/jhene-aiko-adf-p*$$y-fairy-otw-ycj-53x53.jpg",
+            "rank": 94,
+            "title": "P*$$y Fairy (OTW)"
+        },
+        {
+            "artist": "surf mesa Featuring Emilee",
+            "image": "https://charts-static.billboard.com/img/2020/03/surf-mesa-000-ily-xgr-53x53.jpg",
+            "rank": 95,
+            "title": "ily"
+        },
+        {
+            "artist": "Morgan Wallen",
+            "image": "https://charts-static.billboard.com/img/2020/05/morgan-wallen-8s9-more-than-my-hometown-ets-53x53.jpg",
+            "rank": 96,
+            "title": "More Than My Hometown"
+        },
+        {
+            "artist": "Luke Combs",
+            "image": "https://charts-static.billboard.com/img/2015/07/luke-combs-jfp-53x53.jpg",
+            "rank": 97,
+            "title": "Lovin' On You"
+        },
+        {
+            "artist": "Moneybagg Yo",
+            "image": "https://charts-static.billboard.com/img/2020/07/moneybagg-yo-hqt-said-sum-3g9-53x53.jpg",
+            "rank": 98,
+            "title": "Said Sum"
+        },
+        {
+            "artist": "H.E.R. Featuring YG",
+            "image": "https://charts-static.billboard.com/img/2019/10/her-6td-slide-jvj-53x53.jpg",
+            "rank": 99,
+            "title": "Slide"
+        },
+        {
+            "artist": "NLE Choppa Featuring Roddy Ricch",
+            "image": "https://charts-static.billboard.com/img/2020/04/nle-choppa-dh1-walk-em-down-7lm-53x53.jpg",
+            "rank": 100,
+            "title": "Walk Em Down"
+        }
+    ],
+    "name": "hot-100-songs",
+    "nextYear": null,
+    "previousYear": "2019",
+    "title": "Hot 100 Songs - Year-End",
+    "year": "2020"
+}

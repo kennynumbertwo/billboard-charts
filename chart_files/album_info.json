@@ -1,0 +1,2012 @@
+{
+    "_max_retries": 5,
+    "_timeout": 25,
+    "date": "2020-12-05",
+    "entries": [
+        {
+            "artist": "BTS",
+            "image": "https://charts-static.billboard.com/img/2020/12/bts-mv7-be-6eo-53x53.jpg",
+            "isNew": true,
+            "lastPos": 0,
+            "peakPos": 1,
+            "rank": 1,
+            "title": "BE",
+            "weeks": 1
+        },
+        {
+            "artist": "Megan Thee Stallion",
+            "image": "https://charts-static.billboard.com/img/2020/12/megan-thee-stallion-dkc-good-news-864-53x53.jpg",
+            "isNew": true,
+            "lastPos": 0,
+            "peakPos": 2,
+            "rank": 2,
+            "title": "Good News",
+            "weeks": 1
+        },
+        {
+            "artist": "Ariana Grande",
+            "image": "https://charts-static.billboard.com/img/2020/11/ariana-grande-da0-positions-lib-53x53.jpg",
+            "isNew": false,
+            "lastPos": 4,
+            "peakPos": 1,
+            "rank": 3,
+            "title": "Positions",
+            "weeks": 4
+        },
+        {
+            "artist": "Pop Smoke",
+            "image": "https://charts-static.billboard.com/img/2020/07/pop-smoke-5gi-shoot-for-the-stars-aim-for-the-moon-wel-53x53.jpg",
+            "isNew": false,
+            "lastPos": 5,
+            "peakPos": 1,
+            "rank": 4,
+            "title": "Shoot For The Stars Aim For The Moon",
+            "weeks": 21
+        },
+        {
+            "artist": "Future & Lil Uzi Vert",
+            "image": "https://charts-static.billboard.com/img/2020/11/future-f8b-pluto-x-baby-pluto-83m-53x53.jpg",
+            "isNew": false,
+            "lastPos": 2,
+            "peakPos": 2,
+            "rank": 5,
+            "title": "Pluto x Baby Pluto",
+            "weeks": 2
+        },
+        {
+            "artist": "Taylor Swift",
+            "image": "https://charts-static.billboard.com/img/2020/08/taylor-swift-w40-folklore-hjz-53x53.jpg",
+            "isNew": false,
+            "lastPos": 29,
+            "peakPos": 1,
+            "rank": 6,
+            "title": "Folklore",
+            "weeks": 18
+        },
+        {
+            "artist": "Luke Combs",
+            "image": "https://charts-static.billboard.com/img/2019/11/luke-combs-m9g-what-you-see-is-what-you-get-t5k-53x53.jpg",
+            "isNew": false,
+            "lastPos": 6,
+            "peakPos": 1,
+            "rank": 7,
+            "title": "What You See Is What You Get",
+            "weeks": 55
+        },
+        {
+            "artist": "Chris Stapleton",
+            "image": "https://charts-static.billboard.com/img/2020/11/chris-stapleton-kx1-starting-over-oku-53x53.jpg",
+            "isNew": false,
+            "lastPos": 3,
+            "peakPos": 3,
+            "rank": 8,
+            "title": "Starting Over",
+            "weeks": 2
+        },
+        {
+            "artist": "Juice WRLD",
+            "image": "https://charts-static.billboard.com/img/2020/07/juice-wrld-2go-legends-never-die-1c2-53x53.jpg",
+            "isNew": false,
+            "lastPos": 7,
+            "peakPos": 1,
+            "rank": 9,
+            "title": "Legends Never Die",
+            "weeks": 20
+        },
+        {
+            "artist": "Carrie Underwood",
+            "image": "https://charts-static.billboard.com/img/2020/10/carrie-underwood-62f-my-gift-fvl-53x53.jpg",
+            "isNew": false,
+            "lastPos": 25,
+            "peakPos": 8,
+            "rank": 10,
+            "title": "My Gift",
+            "weeks": 9
+        },
+        {
+            "artist": "Harry Styles",
+            "image": "https://charts-static.billboard.com/img/2019/12/harry-styles-bma-fine-line-tsj-53x53.jpg",
+            "isNew": false,
+            "lastPos": 13,
+            "peakPos": 1,
+            "rank": 11,
+            "title": "Fine Line",
+            "weeks": 50
+        },
+        {
+            "artist": "AC/DC",
+            "image": "https://charts-static.billboard.com/img/2020/11/ac-dc-w60-power-up-nu7-53x53.jpg",
+            "isNew": false,
+            "lastPos": 1,
+            "peakPos": 1,
+            "rank": 12,
+            "title": "Power Up",
+            "weeks": 2
+        },
+        {
+            "artist": "Michael Buble",
+            "image": "https://charts-static.billboard.com/img/2011/11/michael-buble-000-christmas-ft9-53x53.jpg",
+            "isNew": false,
+            "lastPos": 23,
+            "peakPos": 1,
+            "rank": 13,
+            "title": "Christmas",
+            "weeks": 86
+        },
+        {
+            "artist": "Lil Baby",
+            "image": "https://charts-static.billboard.com/img/2020/03/lil-baby-nwx-my-turn-3fx-53x53.jpg",
+            "isNew": false,
+            "lastPos": 11,
+            "peakPos": 1,
+            "rank": 14,
+            "title": "My Turn",
+            "weeks": 39
+        },
+        {
+            "artist": "The Kid LAROI",
+            "image": "https://charts-static.billboard.com/img/2020/02/the-kid-laroi-qev-53x53.jpg",
+            "isNew": false,
+            "lastPos": 9,
+            "peakPos": 3,
+            "rank": 15,
+            "title": "F*ck Love",
+            "weeks": 18
+        },
+        {
+            "artist": "Dolly Parton",
+            "image": "https://charts-static.billboard.com/img/2020/10/dolly-parton-398-a-holly-dolly-christmas-hqi-53x53.jpg",
+            "isNew": false,
+            "lastPos": 20,
+            "peakPos": 16,
+            "rank": 16,
+            "title": "A Holly Dolly Christmas",
+            "weeks": 8
+        },
+        {
+            "artist": "Josh Groban",
+            "image": "https://charts-static.billboard.com/img/2001/12/josh-groban-f4w-53x53.jpg",
+            "isNew": true,
+            "lastPos": 0,
+            "peakPos": 17,
+            "rank": 17,
+            "title": "Harmony",
+            "weeks": 1
+        },
+        {
+            "artist": "Original Broadway Cast",
+            "image": "https://charts-static.billboard.com/img/2015/10/original-broadway-cast-recording-000-hamilton-an-american-musical-45j-53x53.jpg",
+            "isNew": false,
+            "lastPos": 16,
+            "peakPos": 2,
+            "rank": 18,
+            "title": "Hamilton: An American Musical",
+            "weeks": 270
+        },
+        {
+            "artist": "Jeezy",
+            "image": "https://charts-static.billboard.com/img/2020/12/jeezy-01g-the-recession-2-ltx-53x53.jpg",
+            "isNew": true,
+            "lastPos": 0,
+            "peakPos": 19,
+            "rank": 19,
+            "title": "The Recession 2",
+            "weeks": 1
+        },
+        {
+            "artist": "Post Malone",
+            "image": "https://charts-static.billboard.com/img/2019/09/post-malone-1vw-hollywoods-bleeding-f9j-53x53.jpg",
+            "isNew": false,
+            "lastPos": 17,
+            "peakPos": 1,
+            "rank": 20,
+            "title": "Hollywood's Bleeding",
+            "weeks": 64
+        },
+        {
+            "artist": "Mariah Carey",
+            "image": "https://charts-static.billboard.com/img/1994/11/mariah-carey-tgq-merry-christmas-df2-53x53.jpg",
+            "isNew": false,
+            "lastPos": 39,
+            "peakPos": 3,
+            "rank": 21,
+            "title": "Merry Christmas",
+            "weeks": 95
+        },
+        {
+            "artist": "The Weeknd",
+            "image": "https://charts-static.billboard.com/img/2020/04/the-weeknd-pqn-after-hours-r65-53x53.jpg",
+            "isNew": false,
+            "lastPos": 28,
+            "peakPos": 1,
+            "rank": 22,
+            "title": "After Hours",
+            "weeks": 36
+        },
+        {
+            "artist": "Vince Guaraldi Trio",
+            "image": "https://charts-static.billboard.com/img/1987/12/vince-guaraldi-trio-y7p-a-charlie-brown-christmas-soundtrack-6ic-53x53.jpg",
+            "isNew": false,
+            "lastPos": 55,
+            "peakPos": 13,
+            "rank": 23,
+            "title": "A Charlie Brown Christmas (Soundtrack)",
+            "weeks": 84
+        },
+        {
+            "artist": "Queen",
+            "image": "https://charts-static.billboard.com/img/1981/11/queen-m21-greatest-hits-z3x-53x53.jpg",
+            "isNew": false,
+            "lastPos": 8,
+            "peakPos": 8,
+            "rank": 24,
+            "title": "Greatest Hits",
+            "weeks": 414
+        },
+        {
+            "artist": "DaBaby",
+            "image": "https://charts-static.billboard.com/img/2017/01/dababy-sfn-53x53.jpg",
+            "isNew": false,
+            "lastPos": 21,
+            "peakPos": 1,
+            "rank": 25,
+            "title": "BLAME IT ON BABY",
+            "weeks": 32
+        },
+        {
+            "artist": "King Von",
+            "image": "https://charts-static.billboard.com/img/2019/05/king-von-ptu-53x53.jpg",
+            "isNew": false,
+            "lastPos": 14,
+            "peakPos": 5,
+            "rank": 26,
+            "title": "Welcome To O'Block",
+            "weeks": 4
+        },
+        {
+            "artist": "Machine Gun Kelly",
+            "image": "https://charts-static.billboard.com/img/2020/10/machine-gun-kelly-3ma-tickets-to-my-downfall-5v4-53x53.jpg",
+            "isNew": false,
+            "lastPos": 24,
+            "peakPos": 1,
+            "rank": 27,
+            "title": "Tickets To My Downfall",
+            "weeks": 9
+        },
+        {
+            "artist": "Pentatonix",
+            "image": "https://charts-static.billboard.com/img/2019/11/pentatonix-9hl-the-best-of-pentatonix-christmas-lrs-53x53.jpg",
+            "isNew": false,
+            "lastPos": 45,
+            "peakPos": 7,
+            "rank": 28,
+            "title": "The Best Of Pentatonix Christmas",
+            "weeks": 14
+        },
+        {
+            "artist": "Billie Eilish",
+            "image": "https://charts-static.billboard.com/img/2019/04/billie-eilish-1e3-when-we-all-fall-asleep-where-do-we-go-ye3-53x53.jpg",
+            "isNew": false,
+            "lastPos": 27,
+            "peakPos": 1,
+            "rank": 29,
+            "title": "When We All Fall Asleep, Where Do We Go?",
+            "weeks": 87
+        },
+        {
+            "artist": "Nat King Cole",
+            "image": "https://charts-static.billboard.com/img/1985/12/nat-king-cole-wkp-the-christmas-song-xtq-53x53.jpg",
+            "isNew": false,
+            "lastPos": 64,
+            "peakPos": 7,
+            "rank": 30,
+            "title": "The Christmas Song",
+            "weeks": 52
+        },
+        {
+            "artist": "Bad Bunny",
+            "image": "https://charts-static.billboard.com/img/2020/03/bad-bunny-poo-yhlqmdlg-miw-53x53.jpg",
+            "isNew": false,
+            "lastPos": 35,
+            "peakPos": 2,
+            "rank": 31,
+            "title": "YHLQMDLG",
+            "weeks": 39
+        },
+        {
+            "artist": "21 Savage & Metro Boomin",
+            "image": "https://charts-static.billboard.com/img/2016/08/21-savage-jjg-87x87.jpg",
+            "isNew": false,
+            "lastPos": 22,
+            "peakPos": 1,
+            "rank": 32,
+            "title": "Savage Mode II",
+            "weeks": 8
+        },
+        {
+            "artist": "Juice WRLD",
+            "image": "https://charts-static.billboard.com/img/2018/06/juice-wrld-f0a-53x53.jpg",
+            "isNew": false,
+            "lastPos": 32,
+            "peakPos": 4,
+            "rank": 33,
+            "title": "Goodbye & Good Riddance",
+            "weeks": 132
+        },
+        {
+            "artist": "SAINt JHN",
+            "image": "https://charts-static.billboard.com/img/2020/12/saint-jhn-y2f-while-the-world-was-burning-ifd-53x53.jpg",
+            "isNew": true,
+            "lastPos": 0,
+            "peakPos": 34,
+            "rank": 34,
+            "title": "While The World Was Burning",
+            "weeks": 1
+        },
+        {
+            "artist": "Rod Wave",
+            "image": "https://charts-static.billboard.com/img/2019/06/rod-wave-i1w-53x53.jpg",
+            "isNew": false,
+            "lastPos": 31,
+            "peakPos": 2,
+            "rank": 35,
+            "title": "Pray 4 Love",
+            "weeks": 34
+        },
+        {
+            "artist": "Fleetwood Mac",
+            "image": "https://charts-static.billboard.com/img/1977/02/fleetwood-mac-m6k-rumours-lei-53x53.jpg",
+            "isNew": false,
+            "lastPos": 12,
+            "peakPos": 1,
+            "rank": 36,
+            "title": "Rumours",
+            "weeks": 400
+        },
+        {
+            "artist": "Morgan Wallen",
+            "image": "https://charts-static.billboard.com/img/2018/05/morgan-wallen-ur7-if-i-know-me-n46-53x53.jpg",
+            "isNew": false,
+            "lastPos": 41,
+            "peakPos": 13,
+            "rank": 37,
+            "title": "If I Know Me",
+            "weeks": 113
+        },
+        {
+            "artist": "Polo G",
+            "image": "https://charts-static.billboard.com/img/2020/05/polo-g-9l1-the-goat-fs7-53x53.jpg",
+            "isNew": false,
+            "lastPos": 33,
+            "peakPos": 2,
+            "rank": 38,
+            "title": "The GOAT",
+            "weeks": 28
+        },
+        {
+            "artist": "Luke Combs",
+            "image": "https://charts-static.billboard.com/img/2017/06/luke-combs-y14-this-ones-for-you-dxb-53x53.jpg",
+            "isNew": false,
+            "lastPos": 34,
+            "peakPos": 4,
+            "rank": 39,
+            "title": "This One's For You",
+            "weeks": 182
+        },
+        {
+            "artist": "DaBaby",
+            "image": "https://charts-static.billboard.com/img/2020/12/dababy-tkw-my-brothers-keeper-long-live-g-d3e-53x53.jpg",
+            "isNew": true,
+            "lastPos": 0,
+            "peakPos": 40,
+            "rank": 40,
+            "title": "My Brother's Keeper (Long Live G)",
+            "weeks": 1
+        },
+        {
+            "artist": "YoungBoy Never Broke Again",
+            "image": "https://charts-static.billboard.com/img/2020/11/youngboy-never-broke-again-n3g-until-i-return-lid-53x53.jpg",
+            "isNew": false,
+            "lastPos": 10,
+            "peakPos": 10,
+            "rank": 41,
+            "title": "Until I Return",
+            "weeks": 2
+        },
+        {
+            "artist": "Garth Brooks",
+            "image": "https://charts-static.billboard.com/img/2020/12/garth-brooks-wgu-fun-vkp-53x53.jpg",
+            "isNew": true,
+            "lastPos": 0,
+            "peakPos": 42,
+            "rank": 42,
+            "title": "Fun",
+            "weeks": 1
+        },
+        {
+            "artist": "Rich The Kid & YoungBoy Never Broke Again",
+            "image": "https://charts-static.billboard.com/img/2014/06/rich-the-kid-zlg-53x53.jpg",
+            "isNew": true,
+            "lastPos": 0,
+            "peakPos": 43,
+            "rank": 43,
+            "title": "Nobody Safe",
+            "weeks": 1
+        },
+        {
+            "artist": "Meek Mill",
+            "image": "https://charts-static.billboard.com/img/2020/12/meek-mill-d0g-quarantine-pack-ep-u7a-53x53.jpg",
+            "isNew": true,
+            "lastPos": 0,
+            "peakPos": 44,
+            "rank": 44,
+            "title": "Quarantine Pack (EP)",
+            "weeks": 1
+        },
+        {
+            "artist": "Lee Brice",
+            "image": "https://charts-static.billboard.com/img/2020/12/lee-brice-vvw-hey-world-jlv-53x53.jpg",
+            "isNew": true,
+            "lastPos": 0,
+            "peakPos": 45,
+            "rank": 45,
+            "title": "Hey World",
+            "weeks": 1
+        },
+        {
+            "artist": "Summer Walker",
+            "image": "https://charts-static.billboard.com/img/2019/10/summer-walker-1sj-over-it-dlk-53x53.jpg",
+            "isNew": false,
+            "lastPos": 57,
+            "peakPos": 2,
+            "rank": 46,
+            "title": "Over It",
+            "weeks": 60
+        },
+        {
+            "artist": "YoungBoy Never Broke Again",
+            "image": "https://charts-static.billboard.com/img/2017/06/youngboy-never-broke-again-n3g-53x53.jpg",
+            "isNew": false,
+            "lastPos": 37,
+            "peakPos": 1,
+            "rank": 47,
+            "title": "Top",
+            "weeks": 11
+        },
+        {
+            "artist": "Dua Lipa",
+            "image": "https://charts-static.billboard.com/img/2020/04/dua-lipa-5k0-future-nostalgia-ec3-53x53.jpg",
+            "isNew": false,
+            "lastPos": 49,
+            "peakPos": 4,
+            "rank": 48,
+            "title": "Future Nostalgia",
+            "weeks": 34
+        },
+        {
+            "artist": "Various Artists",
+            "image": "https://www.billboard.com/assets/1607630108/images/charts/bb-placeholder-new.jpg?9e3bc4af6cc813a2f09d",
+            "isNew": false,
+            "lastPos": 127,
+            "peakPos": 12,
+            "rank": 49,
+            "title": "A Christmas Gift For You From Phil Spector",
+            "weeks": 11
+        },
+        {
+            "artist": "Bing Crosby",
+            "image": "https://charts-static.billboard.com/img/2009/12/bing-crosby-q6i-christmas-classics-xlx-53x53.jpg",
+            "isNew": false,
+            "lastPos": 87,
+            "peakPos": 19,
+            "rank": 50,
+            "title": "Christmas Classics",
+            "weeks": 30
+        },
+        {
+            "artist": "French Montana",
+            "image": "https://charts-static.billboard.com/img/2011/07/french-montana-i8w-53x53.jpg",
+            "isNew": true,
+            "lastPos": 0,
+            "peakPos": 51,
+            "rank": 51,
+            "title": "CB5",
+            "weeks": 1
+        },
+        {
+            "artist": "Internet Money",
+            "image": "https://charts-static.billboard.com/img/2019/10/internet-money-vaq-53x53.jpg",
+            "isNew": false,
+            "lastPos": 44,
+            "peakPos": 10,
+            "rank": 52,
+            "title": "B4 The Storm",
+            "weeks": 13
+        },
+        {
+            "artist": "Iron Maiden",
+            "image": "https://charts-static.billboard.com/img/1981/06/iron-maiden-pli-53x53.jpg",
+            "isNew": true,
+            "lastPos": 0,
+            "peakPos": 53,
+            "rank": 53,
+            "title": "Nights Of The Dead, Legacy Of The Beast: Live In Mexico City",
+            "weeks": 1
+        },
+        {
+            "artist": "Juice WRLD",
+            "image": "https://charts-static.billboard.com/img/2019/03/juice-wrld-f0a-death-race-for-love-i6c-53x53.jpg",
+            "isNew": false,
+            "lastPos": 46,
+            "peakPos": 1,
+            "rank": 54,
+            "title": "Death Race For Love",
+            "weeks": 90
+        },
+        {
+            "artist": "Lewis Capaldi",
+            "image": "https://charts-static.billboard.com/img/2019/06/lewis-capaldi-s2h-divinely-uninspired-to-a-hellish-extent-b8g-53x53.jpg",
+            "isNew": false,
+            "lastPos": 50,
+            "peakPos": 20,
+            "rank": 55,
+            "title": "Divinely Uninspired To A Hellish Extent",
+            "weeks": 80
+        },
+        {
+            "artist": "Lil Durk",
+            "image": "https://charts-static.billboard.com/img/2020/05/lil-durk-hvd-just-cause-yall-waited-2-t7t-53x53.jpg",
+            "isNew": false,
+            "lastPos": 47,
+            "peakPos": 2,
+            "rank": 56,
+            "title": "Just Cause Y'all Waited 2",
+            "weeks": 29
+        },
+        {
+            "artist": "Elton John",
+            "image": "https://charts-static.billboard.com/img/2017/12/elton-john-qls-diamonds-48x-53x53.jpg",
+            "isNew": false,
+            "lastPos": 53,
+            "peakPos": 7,
+            "rank": 57,
+            "title": "Diamonds",
+            "weeks": 159
+        },
+        {
+            "artist": "Lil Uzi Vert",
+            "image": "https://charts-static.billboard.com/img/2020/03/lil-uzi-vert-mre-eternal-atake-ldc-53x53.jpg",
+            "isNew": false,
+            "lastPos": 51,
+            "peakPos": 1,
+            "rank": 58,
+            "title": "Eternal Atake",
+            "weeks": 38
+        },
+        {
+            "artist": "Pentatonix",
+            "image": "https://charts-static.billboard.com/img/2020/11/pentatonix-9hl-we-need-a-little-christmas-5vn-53x53.jpg",
+            "isNew": false,
+            "lastPos": 30,
+            "peakPos": 30,
+            "rank": 59,
+            "title": "We Need A Little Christmas",
+            "weeks": 2
+        },
+        {
+            "artist": "Sam Smith",
+            "image": "https://charts-static.billboard.com/img/2020/11/sam-smith-0od-love-goes-2vy-53x53.jpg",
+            "isNew": false,
+            "lastPos": 38,
+            "peakPos": 5,
+            "rank": 60,
+            "title": "Love Goes",
+            "weeks": 4
+        },
+        {
+            "artist": "Frank Sinatra",
+            "image": "https://charts-static.billboard.com/img/2017/10/frank-sinatra-ytu-ultimate-christmas-mwp-53x53.jpg",
+            "isNew": false,
+            "lastPos": 115,
+            "peakPos": 12,
+            "rank": 61,
+            "title": "Ultimate Christmas",
+            "weeks": 21
+        },
+        {
+            "artist": "Chris Stapleton",
+            "image": "https://charts-static.billboard.com/img/2015/05/chris-stapleton-0pi-traveller-k57-53x53.jpg",
+            "isNew": false,
+            "lastPos": 52,
+            "peakPos": 1,
+            "rank": 62,
+            "title": "Traveller",
+            "weeks": 272
+        },
+        {
+            "artist": "Post Malone",
+            "image": "https://charts-static.billboard.com/img/2015/06/post-malone-1vw-53x53.jpg",
+            "isNew": false,
+            "lastPos": 58,
+            "peakPos": 1,
+            "rank": 63,
+            "title": "beerbongs & bentleys",
+            "weeks": 135
+        },
+        {
+            "artist": "Travis Scott",
+            "image": "https://charts-static.billboard.com/img/2018/08/travis-scott-jll-astroworld-0yp-53x53.jpg",
+            "isNew": false,
+            "lastPos": 56,
+            "peakPos": 1,
+            "rank": 64,
+            "title": "ASTROWORLD",
+            "weeks": 121
+        },
+        {
+            "artist": "Roddy Ricch",
+            "image": "https://charts-static.billboard.com/img/2019/12/roddy-ricch-2vu-please-excuse-me-for-being-antisocial-dee-53x53.jpg",
+            "isNew": false,
+            "lastPos": 63,
+            "peakPos": 1,
+            "rank": 65,
+            "title": "Please Excuse Me For Being Antisocial",
+            "weeks": 51
+        },
+        {
+            "artist": "Jhene Aiko",
+            "image": "https://charts-static.billboard.com/img/2020/03/jhene-aiko-adf-chilombo-bur-53x53.jpg",
+            "isNew": false,
+            "lastPos": 62,
+            "peakPos": 2,
+            "rank": 66,
+            "title": "Chilombo",
+            "weeks": 38
+        },
+        {
+            "artist": "Bob Marley And The Wailers",
+            "image": "https://charts-static.billboard.com/img/1984/08/bob-marley-and-the-wailers-000-legend-the-best-of-bob-marley-and-the-wailers-dzx-87x87.jpg",
+            "isNew": false,
+            "lastPos": 19,
+            "peakPos": 5,
+            "rank": 67,
+            "title": "Legend: The Best Of...",
+            "weeks": 654
+        },
+        {
+            "artist": "Pearl Jam",
+            "image": "https://charts-static.billboard.com/img/1991/11/pearl-jam-1pn-ten-sn9-53x53.jpg",
+            "isNew": false,
+            "lastPos": 0,
+            "peakPos": 2,
+            "rank": 68,
+            "title": "Ten",
+            "weeks": 262
+        },
+        {
+            "artist": "Eminem",
+            "image": "https://charts-static.billboard.com/img/2005/12/eminem-1xq-curtain-call-the-hits-ylp-53x53.jpg",
+            "isNew": false,
+            "lastPos": 77,
+            "peakPos": 1,
+            "rank": 69,
+            "title": "Curtain Call: The Hits",
+            "weeks": 504
+        },
+        {
+            "artist": "Trippie Redd",
+            "image": "https://charts-static.billboard.com/img/2017/09/trippie-redd-q58-53x53.jpg",
+            "isNew": false,
+            "lastPos": 40,
+            "peakPos": 2,
+            "rank": 70,
+            "title": "Pegasus",
+            "weeks": 4
+        },
+        {
+            "artist": "Halsey",
+            "image": "https://charts-static.billboard.com/img/2020/02/halsey-iqm-manic-rmv-53x53.jpg",
+            "isNew": false,
+            "lastPos": 60,
+            "peakPos": 2,
+            "rank": 71,
+            "title": "Manic",
+            "weeks": 45
+        },
+        {
+            "artist": "Taylor Swift",
+            "image": "https://charts-static.billboard.com/img/2019/09/taylor-swift-70p-lover-a0i-53x53.jpg",
+            "isNew": false,
+            "lastPos": 84,
+            "peakPos": 1,
+            "rank": 72,
+            "title": "Lover",
+            "weeks": 66
+        },
+        {
+            "artist": "Mat & Savanna Shaw",
+            "image": "https://charts-static.billboard.com/img/2020/12/mat-and-savanna-shaw-06r-merry-little-christmas-bgp-53x53.jpg",
+            "isNew": true,
+            "lastPos": 0,
+            "peakPos": 73,
+            "rank": 73,
+            "title": "Merry Little Christmas",
+            "weeks": 1
+        },
+        {
+            "artist": "Billie Eilish",
+            "image": "https://charts-static.billboard.com/img/2017/10/billie-eilish-1e3-dont-smile-at-me-hbg-53x53.jpg",
+            "isNew": false,
+            "lastPos": 59,
+            "peakPos": 14,
+            "rank": 74,
+            "title": "Dont Smile At Me",
+            "weeks": 153
+        },
+        {
+            "artist": "Bing Crosby",
+            "image": "https://charts-static.billboard.com/img/1987/12/bing-crosby-q6i-white-christmas-cy4-53x53.jpg",
+            "isNew": false,
+            "lastPos": 0,
+            "peakPos": 45,
+            "rank": 75,
+            "title": "White Christmas",
+            "weeks": 38
+        },
+        {
+            "artist": "Pink Floyd",
+            "image": "https://charts-static.billboard.com/img/1988/12/pink-floyd-pu1-delicate-sound-of-thunder-2f9-53x53.jpg",
+            "isNew": false,
+            "lastPos": 0,
+            "peakPos": 11,
+            "rank": 76,
+            "title": "Delicate Sound Of Thunder",
+            "weeks": 22
+        },
+        {
+            "artist": "2 Chainz",
+            "image": "https://charts-static.billboard.com/img/2020/11/2-chainz-rnc-so-help-me-god-1ii-53x53.jpg",
+            "isNew": false,
+            "lastPos": 15,
+            "peakPos": 15,
+            "rank": 77,
+            "title": "So Help Me God!",
+            "weeks": 2
+        },
+        {
+            "artist": "Drake",
+            "image": "https://charts-static.billboard.com/img/2018/07/drake-zwl-scorpion-jse-53x53.jpg",
+            "isNew": false,
+            "lastPos": 67,
+            "peakPos": 1,
+            "rank": 78,
+            "title": "Scorpion",
+            "weeks": 126
+        },
+        {
+            "artist": "Creedence Clearwater Revival",
+            "image": "https://charts-static.billboard.com/img/1993/01/creedence-clearwater-revival-6ft-chronicle-the-20-greatest-hits-ttg-53x53.jpg",
+            "isNew": false,
+            "lastPos": 18,
+            "peakPos": 18,
+            "rank": 79,
+            "title": "Chronicle The 20 Greatest Hits",
+            "weeks": 499
+        },
+        {
+            "artist": "Ariana Grande",
+            "image": "https://charts-static.billboard.com/img/2019/02/ariana-grande-ypy-thank-u-next-fj6-53x53.jpg",
+            "isNew": false,
+            "lastPos": 81,
+            "peakPos": 1,
+            "rank": 80,
+            "title": "Thank U, Next",
+            "weeks": 94
+        },
+        {
+            "artist": "Post Malone",
+            "image": "https://charts-static.billboard.com/img/2016/12/post-malone-1vw-stoney-8ge-53x53.jpg",
+            "isNew": false,
+            "lastPos": 72,
+            "peakPos": 4,
+            "rank": 81,
+            "title": "Stoney",
+            "weeks": 207
+        },
+        {
+            "artist": "Gunna",
+            "image": "https://charts-static.billboard.com/img/2020/06/gunna-idr-wunna-8u6-53x53.jpg",
+            "isNew": false,
+            "lastPos": 68,
+            "peakPos": 1,
+            "rank": 82,
+            "title": "Wunna",
+            "weeks": 27
+        },
+        {
+            "artist": "Kendrick Lamar",
+            "image": "https://charts-static.billboard.com/img/2012/11/kendrick-lamar-h1y-good-kid-maad-city-6bw-53x53.jpg",
+            "isNew": false,
+            "lastPos": 82,
+            "peakPos": 2,
+            "rank": 83,
+            "title": "good kid, m.A.A.d city",
+            "weeks": 422
+        },
+        {
+            "artist": "Moneybagg Yo & Blac Youngsta",
+            "image": "https://charts-static.billboard.com/img/2017/03/moneybagg-yo-vp0-53x53.jpg",
+            "isNew": false,
+            "lastPos": 66,
+            "peakPos": 6,
+            "rank": 84,
+            "title": "Code Red",
+            "weeks": 10
+        },
+        {
+            "artist": "Perry Como",
+            "image": "https://charts-static.billboard.com/img/2017/12/perry-como-srg-53x53.jpg",
+            "isNew": false,
+            "lastPos": 200,
+            "peakPos": 18,
+            "rank": 85,
+            "title": "The Classic Christmas Album",
+            "weeks": 15
+        },
+        {
+            "artist": "Future",
+            "image": "https://charts-static.billboard.com/img/2020/05/future-f8b-high-off-life-r0j-53x53.jpg",
+            "isNew": false,
+            "lastPos": 76,
+            "peakPos": 1,
+            "rank": 86,
+            "title": "High Off Life",
+            "weeks": 28
+        },
+        {
+            "artist": "Maluma",
+            "image": "https://charts-static.billboard.com/img/2020/09/maluma-xt7-papi-juancho-9uj-53x53.jpg",
+            "isNew": false,
+            "lastPos": 65,
+            "peakPos": 34,
+            "rank": 87,
+            "title": "Papi Juancho",
+            "weeks": 14
+        },
+        {
+            "artist": "Koe Wetzel",
+            "image": "https://charts-static.billboard.com/img/2020/12/koe-wetzel-ov0-sellout-adn-53x53.jpg",
+            "isNew": true,
+            "lastPos": 0,
+            "peakPos": 88,
+            "rank": 88,
+            "title": "Sellout",
+            "weeks": 1
+        },
+        {
+            "artist": "XXXTENTACION",
+            "image": "https://charts-static.billboard.com/img/2018/03/xxxtentacion-dms--qbi-53x53.jpg",
+            "isNew": false,
+            "lastPos": 80,
+            "peakPos": 1,
+            "rank": 89,
+            "title": "?",
+            "weeks": 141
+        },
+        {
+            "artist": "Gene Autry",
+            "image": "https://charts-static.billboard.com/img/2012/10/gene-autry-o4a-53x53.jpg",
+            "isNew": false,
+            "lastPos": 0,
+            "peakPos": 21,
+            "rank": 90,
+            "title": "Rudolph The Red Nosed Reindeer And Other Christmas Classics",
+            "weeks": 14
+        },
+        {
+            "artist": "The Beatles",
+            "image": "https://charts-static.billboard.com/img/1969/10/the-beatles-tkd-abbey-road-w8n-53x53.jpg",
+            "isNew": false,
+            "lastPos": 79,
+            "peakPos": 1,
+            "rank": 91,
+            "title": "Abbey Road",
+            "weeks": 389
+        },
+        {
+            "artist": "Elvis Presley",
+            "image": "https://charts-static.billboard.com/img/2012/11/elvis-presley-0r3-the-classic-christmas-album-wh2-53x53.jpg",
+            "isNew": false,
+            "lastPos": 159,
+            "peakPos": 90,
+            "rank": 92,
+            "title": "The Classic Christmas Album",
+            "weeks": 38
+        },
+        {
+            "artist": "Andy Williams",
+            "image": "https://charts-static.billboard.com/img/2013/10/andy-williams-epf-53x53.jpg",
+            "isNew": false,
+            "lastPos": 197,
+            "peakPos": 23,
+            "rank": 93,
+            "title": "Classic Christmas Album",
+            "weeks": 22
+        },
+        {
+            "artist": "Kelly Clarkson",
+            "image": "https://charts-static.billboard.com/img/2013/11/kelly-clarkson-tcv-wrapped-in-red-s96-53x53.jpg",
+            "isNew": false,
+            "lastPos": 160,
+            "peakPos": 3,
+            "rank": 94,
+            "title": "Wrapped In Red",
+            "weeks": 46
+        },
+        {
+            "artist": "King Von",
+            "image": "https://charts-static.billboard.com/img/2019/05/king-von-ptu-53x53.jpg",
+            "isNew": false,
+            "lastPos": 71,
+            "peakPos": 40,
+            "rank": 95,
+            "title": "Levon James",
+            "weeks": 5
+        },
+        {
+            "artist": "BLACKPINK",
+            "image": "https://charts-static.billboard.com/img/2020/10/blackpink-61x-the-album-z36-53x53.jpg",
+            "isNew": false,
+            "lastPos": 69,
+            "peakPos": 2,
+            "rank": 96,
+            "title": "The Album",
+            "weeks": 8
+        },
+        {
+            "artist": "Frank Sinatra",
+            "image": "https://charts-static.billboard.com/img/2015/05/frank-sinatra-ytu-ultimate-sinatra-g7x-53x53.jpg",
+            "isNew": false,
+            "lastPos": 142,
+            "peakPos": 32,
+            "rank": 97,
+            "title": "Ultimate Sinatra",
+            "weeks": 131
+        },
+        {
+            "artist": "Journey",
+            "image": "https://charts-static.billboard.com/img/1988/12/journey-9r5-journeys-greatest-hits-lte-53x53.jpg",
+            "isNew": false,
+            "lastPos": 73,
+            "peakPos": 10,
+            "rank": 98,
+            "title": "Journey's Greatest Hits",
+            "weeks": 644
+        },
+        {
+            "artist": "AC/DC",
+            "image": "https://charts-static.billboard.com/img/1980/08/ac-dc-3eb-back-in-black-qzj-53x53.jpg",
+            "isNew": false,
+            "lastPos": 78,
+            "peakPos": 4,
+            "rank": 99,
+            "title": "Back In Black",
+            "weeks": 439
+        },
+        {
+            "artist": "Andrea Bocelli",
+            "image": "https://charts-static.billboard.com/img/2020/11/andrea-bocelli-m1l-believe-hl2-53x53.jpg",
+            "isNew": false,
+            "lastPos": 26,
+            "peakPos": 26,
+            "rank": 100,
+            "title": "Believe",
+            "weeks": 2
+        },
+        {
+            "artist": "Brenda Lee",
+            "image": "https://charts-static.billboard.com/img/2018/01/brenda-lee-liu-53x53.jpg",
+            "isNew": false,
+            "lastPos": 0,
+            "peakPos": 17,
+            "rank": 101,
+            "title": "Rockin' Around The Christmas Tree: The Decca Christmas Recordings",
+            "weeks": 8
+        },
+        {
+            "artist": "Drake",
+            "image": "https://charts-static.billboard.com/img/2020/05/drake-p3d-dark-lane-demo-tapes-q5h-53x53.jpg",
+            "isNew": false,
+            "lastPos": 90,
+            "peakPos": 2,
+            "rank": 102,
+            "title": "Dark Lane Demo Tapes",
+            "weeks": 30
+        },
+        {
+            "artist": "Ed Sheeran",
+            "image": "https://charts-static.billboard.com/img/2017/03/ed-sheeran-3vg-53x53.jpg",
+            "isNew": false,
+            "lastPos": 92,
+            "peakPos": 1,
+            "rank": 103,
+            "title": "\u00f7 (Divide)",
+            "weeks": 195
+        },
+        {
+            "artist": "Michael Jackson",
+            "image": "https://charts-static.billboard.com/img/1982/12/michael-jackson-9to-thriller-4gd-53x53.jpg",
+            "isNew": false,
+            "lastPos": 94,
+            "peakPos": 1,
+            "rank": 104,
+            "title": "Thriller",
+            "weeks": 446
+        },
+        {
+            "artist": "Soundtrack",
+            "image": "https://charts-static.billboard.com/img/2019/11/soundtrack-000-frozen-ii-yhp-53x53.jpg",
+            "isNew": false,
+            "lastPos": 86,
+            "peakPos": 1,
+            "rank": 105,
+            "title": "Frozen II",
+            "weeks": 54
+        },
+        {
+            "artist": "BTS",
+            "image": "https://charts-static.billboard.com/img/2020/03/bts-mv7-map-of-the-soul-7-epd-53x53.jpg",
+            "isNew": false,
+            "lastPos": 114,
+            "peakPos": 1,
+            "rank": 106,
+            "title": "MAP OF THE SOUL : 7",
+            "weeks": 40
+        },
+        {
+            "artist": "Khalid",
+            "image": "https://charts-static.billboard.com/img/2017/03/khalid-dsk-american-teen-x4i-53x53.jpg",
+            "isNew": false,
+            "lastPos": 100,
+            "peakPos": 4,
+            "rank": 107,
+            "title": "American Teen",
+            "weeks": 195
+        },
+        {
+            "artist": "Kane Brown",
+            "image": "https://charts-static.billboard.com/img/2020/08/kane-brown-wbb-mixtape-vol-1-n1j-53x53.jpg",
+            "isNew": false,
+            "lastPos": 88,
+            "peakPos": 15,
+            "rank": 108,
+            "title": "Mixtape, Vol. 1 (EP)",
+            "weeks": 15
+        },
+        {
+            "artist": "Dean Martin",
+            "image": "https://charts-static.billboard.com/img/2017/12/dean-martin-mm0-53x53.jpg",
+            "isNew": false,
+            "lastPos": 0,
+            "peakPos": 38,
+            "rank": 109,
+            "title": "The Dean Martin Christmas Album",
+            "weeks": 15
+        },
+        {
+            "artist": "Queen Naija",
+            "image": "https://charts-static.billboard.com/img/2018/01/queen-naija-9zl-53x53.jpg",
+            "isNew": false,
+            "lastPos": 74,
+            "peakPos": 9,
+            "rank": 110,
+            "title": "Missunderstood",
+            "weeks": 4
+        },
+        {
+            "artist": "NAV",
+            "image": "https://charts-static.billboard.com/img/2020/11/nav-qk4-emergency-tsunami-bqr-53x53.jpg",
+            "isNew": false,
+            "lastPos": 43,
+            "peakPos": 6,
+            "rank": 111,
+            "title": "Emergency Tsunami",
+            "weeks": 3
+        },
+        {
+            "artist": "Garth Brooks",
+            "image": "https://charts-static.billboard.com/img/2020/12/garth-brooks-wgu-fun-triple-live-deluxe-christmas-together-nfh-53x53.jpg",
+            "isNew": true,
+            "lastPos": 0,
+            "peakPos": 112,
+            "rank": 112,
+            "title": "Fun / Triple Live Deluxe / Christmas Together",
+            "weeks": 1
+        },
+        {
+            "artist": "Garth Brooks",
+            "image": "https://charts-static.billboard.com/img/2020/12/garth-brooks-wgu-triple-live-deluxe-jpw-53x53.jpg",
+            "isNew": true,
+            "lastPos": 0,
+            "peakPos": 113,
+            "rank": 113,
+            "title": "Triple Live Deluxe",
+            "weeks": 1
+        },
+        {
+            "artist": "Gabby Barrett",
+            "image": "https://charts-static.billboard.com/img/2018/06/gabby-barrett-ait-53x53.jpg",
+            "isNew": false,
+            "lastPos": 93,
+            "peakPos": 27,
+            "rank": 114,
+            "title": "Goldmine",
+            "weeks": 23
+        },
+        {
+            "artist": "Tom Petty And The Heartbreakers",
+            "image": "https://charts-static.billboard.com/img/1993/12/tom-petty-and-the-heartbreakers-f8u-greatest-hits-jus-53x53.jpg",
+            "isNew": false,
+            "lastPos": 91,
+            "peakPos": 2,
+            "rank": 115,
+            "title": "Greatest Hits",
+            "weeks": 385
+        },
+        {
+            "artist": "Soundtrack",
+            "image": "https://charts-static.billboard.com/img/2017/12/soundtrack-000-the-greatest-showman-agl-53x53.jpg",
+            "isNew": false,
+            "lastPos": 99,
+            "peakPos": 1,
+            "rank": 116,
+            "title": "The Greatest Showman",
+            "weeks": 155
+        },
+        {
+            "artist": "J. Cole",
+            "image": "https://charts-static.billboard.com/img/2014/12/j-cole-s1s-2014-forest-hills-drive-bze-53x53.jpg",
+            "isNew": false,
+            "lastPos": 97,
+            "peakPos": 1,
+            "rank": 117,
+            "title": "2014 Forest Hills Drive",
+            "weeks": 312
+        },
+        {
+            "artist": "Lil Uzi Vert",
+            "image": "https://charts-static.billboard.com/img/2017/09/lil-uzi-vert-mre-luv-is-rage-2-0lz-53x53.jpg",
+            "isNew": false,
+            "lastPos": 104,
+            "peakPos": 1,
+            "rank": 118,
+            "title": "Luv Is Rage 2",
+            "weeks": 170
+        },
+        {
+            "artist": "Fleetwood Mac",
+            "image": "https://charts-static.billboard.com/img/1988/12/fleetwood-mac-m6k-greatest-hits-v61-53x53.jpg",
+            "isNew": false,
+            "lastPos": 96,
+            "peakPos": 14,
+            "rank": 119,
+            "title": "Greatest Hits",
+            "weeks": 170
+        },
+        {
+            "artist": "George Michael & Wham!",
+            "image": "https://charts-static.billboard.com/img/1984/12/george-michael-r9n-53x53.jpg",
+            "isNew": false,
+            "lastPos": 189,
+            "peakPos": 43,
+            "rank": 120,
+            "title": "Last Christmas (Soundtrack)",
+            "weeks": 9
+        },
+        {
+            "artist": "The Beatles",
+            "image": "https://charts-static.billboard.com/img/2000/12/the-beatles-ism-1-yo3-53x53.jpg",
+            "isNew": false,
+            "lastPos": 89,
+            "peakPos": 1,
+            "rank": 121,
+            "title": "1",
+            "weeks": 448
+        },
+        {
+            "artist": "SZA",
+            "image": "https://charts-static.billboard.com/img/2017/07/sza-8os-ctrl-xqd-53x53.jpg",
+            "isNew": false,
+            "lastPos": 101,
+            "peakPos": 3,
+            "rank": 122,
+            "title": "Ctrl",
+            "weeks": 181
+        },
+        {
+            "artist": "The Weeknd",
+            "image": "https://charts-static.billboard.com/img/2016/12/the-weeknd-pqn-starboy-6xr-53x53.jpg",
+            "isNew": false,
+            "lastPos": 123,
+            "peakPos": 1,
+            "rank": 123,
+            "title": "Starboy",
+            "weeks": 209
+        },
+        {
+            "artist": "Drake",
+            "image": "https://charts-static.billboard.com/img/2011/12/drake-hq6-take-care-gye-53x53.jpg",
+            "isNew": false,
+            "lastPos": 102,
+            "peakPos": 1,
+            "rank": 124,
+            "title": "Take Care",
+            "weeks": 404
+        },
+        {
+            "artist": "Pop Smoke",
+            "image": "https://charts-static.billboard.com/img/2019/08/pop-smoke-5gi-53x53.jpg",
+            "isNew": false,
+            "lastPos": 110,
+            "peakPos": 7,
+            "rank": 125,
+            "title": "Meet The Woo, V.2",
+            "weeks": 42
+        },
+        {
+            "artist": "Bruce Springsteen",
+            "image": "https://charts-static.billboard.com/img/1975/07/bruce-springsteen-the-e-street-band-cuy-480x480.jpg",
+            "isNew": false,
+            "lastPos": 83,
+            "peakPos": 2,
+            "rank": 126,
+            "title": "Letter To You",
+            "weeks": 5
+        },
+        {
+            "artist": "2Pac",
+            "image": "https://charts-static.billboard.com/img/1998/12/2pac-asm-greatest-hits-984-53x53.jpg",
+            "isNew": false,
+            "lastPos": 124,
+            "peakPos": 3,
+            "rank": 127,
+            "title": "Greatest Hits",
+            "weeks": 350
+        },
+        {
+            "artist": "Moneybagg Yo",
+            "image": "https://charts-static.billboard.com/img/2017/03/moneybagg-yo-vp0-53x53.jpg",
+            "isNew": false,
+            "lastPos": 106,
+            "peakPos": 3,
+            "rank": 128,
+            "title": "Time Served",
+            "weeks": 46
+        },
+        {
+            "artist": "Kendrick Lamar",
+            "image": "https://charts-static.billboard.com/img/2017/05/kendrick-lamar-h1y-damn-aqz-53x53.jpg",
+            "isNew": false,
+            "lastPos": 126,
+            "peakPos": 1,
+            "rank": 129,
+            "title": "DAMN.",
+            "weeks": 189
+        },
+        {
+            "artist": "Khalid",
+            "image": "https://charts-static.billboard.com/img/2019/04/khalid-dsk-free-spirit-dds-53x53.jpg",
+            "isNew": false,
+            "lastPos": 109,
+            "peakPos": 1,
+            "rank": 130,
+            "title": "Free Spirit",
+            "weeks": 86
+        },
+        {
+            "artist": "Doja Cat",
+            "image": "https://charts-static.billboard.com/img/2019/11/doja-cat-cd8-hot-pink-tyj-53x53.jpg",
+            "isNew": false,
+            "lastPos": 113,
+            "peakPos": 9,
+            "rank": 131,
+            "title": "Hot Pink",
+            "weeks": 56
+        },
+        {
+            "artist": "Joji",
+            "image": "https://charts-static.billboard.com/img/2020/10/joji-77h-nectar-nuz-53x53.jpg",
+            "isNew": false,
+            "lastPos": 98,
+            "peakPos": 3,
+            "rank": 132,
+            "title": "Nectar",
+            "weeks": 9
+        },
+        {
+            "artist": "Rauw Alejandro",
+            "image": "https://charts-static.billboard.com/img/2020/11/rauw-alejandro-w2m-afrodisiaco-csw-53x53.jpg",
+            "isNew": false,
+            "lastPos": 75,
+            "peakPos": 75,
+            "rank": 133,
+            "title": "Afrodisiaco",
+            "weeks": 2
+        },
+        {
+            "artist": "Bobby Helms",
+            "image": "https://charts-static.billboard.com/img/2019/12/bobby-helms-8s1-the-best-of-bobby-helms-f7r-53x53.jpg",
+            "isNew": false,
+            "lastPos": 0,
+            "peakPos": 27,
+            "rank": 134,
+            "title": "The Best Of Bobby Helms",
+            "weeks": 5
+        },
+        {
+            "artist": "Ava Max",
+            "image": "https://charts-static.billboard.com/img/2018/09/ava-max-h98-53x53.jpg",
+            "isNew": false,
+            "lastPos": 180,
+            "peakPos": 27,
+            "rank": 135,
+            "title": "Heaven & Hell",
+            "weeks": 10
+        },
+        {
+            "artist": "King Von",
+            "image": "https://charts-static.billboard.com/img/2019/10/king-von-000-grandson-vol-1-28x-53x53.jpg",
+            "isNew": false,
+            "lastPos": 95,
+            "peakPos": 53,
+            "rank": 136,
+            "title": "Grandson, Vol. 1",
+            "weeks": 5
+        },
+        {
+            "artist": "Nirvana",
+            "image": "https://charts-static.billboard.com/img/1991/10/nirvana-ezv-nevermind-nnk-53x53.jpg",
+            "isNew": false,
+            "lastPos": 0,
+            "peakPos": 1,
+            "rank": 137,
+            "title": "Nevermind",
+            "weeks": 500
+        },
+        {
+            "artist": "Soundtrack",
+            "image": "https://charts-static.billboard.com/img/2016/12/soundtrack-000-moana-yt0-53x53.jpg",
+            "isNew": false,
+            "lastPos": 116,
+            "peakPos": 2,
+            "rank": 138,
+            "title": "Moana",
+            "weeks": 209
+        },
+        {
+            "artist": "The Weeknd",
+            "image": "https://charts-static.billboard.com/img/2015/09/the-weeknd-pqn-beauty-behind-the-madness-8yq-53x53.jpg",
+            "isNew": false,
+            "lastPos": 122,
+            "peakPos": 1,
+            "rank": 139,
+            "title": "Beauty Behind The Madness",
+            "weeks": 273
+        },
+        {
+            "artist": "Nicki Minaj",
+            "image": "https://charts-static.billboard.com/img/2010/12/nicki-minaj-dc2-pink-friday-g0t-53x53.jpg",
+            "isNew": false,
+            "lastPos": 164,
+            "peakPos": 1,
+            "rank": 140,
+            "title": "Pink Friday",
+            "weeks": 75
+        },
+        {
+            "artist": "Cardi B",
+            "image": "https://charts-static.billboard.com/img/2018/04/cardi-b-mts-invasion-of-privacy-w49-53x53.jpg",
+            "isNew": false,
+            "lastPos": 133,
+            "peakPos": 1,
+            "rank": 141,
+            "title": "Invasion Of Privacy",
+            "weeks": 138
+        },
+        {
+            "artist": "Rod Wave",
+            "image": "https://charts-static.billboard.com/img/2019/06/rod-wave-i1w-53x53.jpg",
+            "isNew": false,
+            "lastPos": 125,
+            "peakPos": 10,
+            "rank": 142,
+            "title": "Ghetto Gospel",
+            "weeks": 56
+        },
+        {
+            "artist": "George Strait",
+            "image": "https://charts-static.billboard.com/img/2004/10/george-strait-ot6-50-number-ones-gb4-53x53.jpg",
+            "isNew": false,
+            "lastPos": 136,
+            "peakPos": 1,
+            "rank": 143,
+            "title": "50 Number Ones",
+            "weeks": 165
+        },
+        {
+            "artist": "Guns N' Roses",
+            "image": "https://charts-static.billboard.com/img/1987/08/guns-n-roses-i8r-appetite-for-destruction-zep-53x53.jpg",
+            "isNew": false,
+            "lastPos": 0,
+            "peakPos": 1,
+            "rank": 144,
+            "title": "Appetite For Destruction",
+            "weeks": 242
+        },
+        {
+            "artist": "Rihanna",
+            "image": "https://charts-static.billboard.com/img/2016/02/rihanna-v3t-anti-x4q-53x53.jpg",
+            "isNew": false,
+            "lastPos": 118,
+            "peakPos": 1,
+            "rank": 145,
+            "title": "ANTI",
+            "weeks": 247
+        },
+        {
+            "artist": "Bad Bunny",
+            "image": "https://charts-static.billboard.com/img/2019/01/bad-bunny-kt8-x-100pre-pc1-53x53.jpg",
+            "isNew": false,
+            "lastPos": 148,
+            "peakPos": 11,
+            "rank": 146,
+            "title": "X 100PRE",
+            "weeks": 101
+        },
+        {
+            "artist": "The Notorious B.I.G.",
+            "image": "https://charts-static.billboard.com/img/2007/03/the-notorious-big-rts-greatest-hits-zqs-53x53.jpg",
+            "isNew": false,
+            "lastPos": 131,
+            "peakPos": 1,
+            "rank": 147,
+            "title": "Greatest Hits",
+            "weeks": 250
+        },
+        {
+            "artist": "Chris Brown",
+            "image": "https://charts-static.billboard.com/img/2019/07/chris-brown-abf-indigo-9hk-53x53.jpg",
+            "isNew": false,
+            "lastPos": 137,
+            "peakPos": 1,
+            "rank": 148,
+            "title": "Indigo",
+            "weeks": 74
+        },
+        {
+            "artist": "Taylor Swift",
+            "image": "https://charts-static.billboard.com/img/2014/11/taylor-swift-70p-1989-y2x-53x53.jpg",
+            "isNew": false,
+            "lastPos": 134,
+            "peakPos": 1,
+            "rank": 149,
+            "title": "1989",
+            "weeks": 311
+        },
+        {
+            "artist": "DaBaby",
+            "image": "https://charts-static.billboard.com/img/2019/10/dababy-sfn-kirk-8t6-53x53.jpg",
+            "isNew": false,
+            "lastPos": 141,
+            "peakPos": 1,
+            "rank": 150,
+            "title": "KIRK",
+            "weeks": 61
+        },
+        {
+            "artist": "Andy Williams",
+            "image": "https://charts-static.billboard.com/img/2012/10/andy-williams-epf-the-andy-williams-christmas-album-dsu-53x53.jpg",
+            "isNew": false,
+            "lastPos": 0,
+            "peakPos": 40,
+            "rank": 151,
+            "title": "The Andy Williams Christmas Album",
+            "weeks": 9
+        },
+        {
+            "artist": "Imagine Dragons",
+            "image": "https://charts-static.billboard.com/img/2017/07/imagine-dragons-wca-evolve-xpn-53x53.jpg",
+            "isNew": false,
+            "lastPos": 139,
+            "peakPos": 2,
+            "rank": 152,
+            "title": "Evolve",
+            "weeks": 179
+        },
+        {
+            "artist": "Harry Styles",
+            "image": "https://charts-static.billboard.com/img/2017/04/harry-styles-psx-53x53.jpg",
+            "isNew": false,
+            "lastPos": 130,
+            "peakPos": 1,
+            "rank": 153,
+            "title": "Harry Styles",
+            "weeks": 64
+        },
+        {
+            "artist": "Kid Cudi",
+            "image": "https://charts-static.billboard.com/img/2009/10/kid-cudi-f7w-man-on-the-moon-the-end-of-day-y10-53x53.jpg",
+            "isNew": false,
+            "lastPos": 117,
+            "peakPos": 4,
+            "rank": 154,
+            "title": "Man On The Moon: The End Of Day",
+            "weeks": 150
+        },
+        {
+            "artist": "Jimi Hendrix Experience",
+            "image": "https://charts-static.billboard.com/img/2020/12/jimi-hendrix-g8n-live-in-maui-gl2-53x53.jpg",
+            "isNew": true,
+            "lastPos": 0,
+            "peakPos": 155,
+            "rank": 155,
+            "title": "Live In Maui",
+            "weeks": 1
+        },
+        {
+            "artist": "Jack Harlow",
+            "image": "https://charts-static.billboard.com/img/2020/03/jack-harlow-ft9-sweet-action-er8-53x53.jpg",
+            "isNew": false,
+            "lastPos": 135,
+            "peakPos": 20,
+            "rank": 156,
+            "title": "Sweet Action",
+            "weeks": 37
+        },
+        {
+            "artist": "Adele",
+            "image": "https://charts-static.billboard.com/img/2011/02/adele-hdy-21-0id-53x53.jpg",
+            "isNew": false,
+            "lastPos": 119,
+            "peakPos": 1,
+            "rank": 157,
+            "title": "21",
+            "weeks": 493
+        },
+        {
+            "artist": "Anuel AA",
+            "image": "https://charts-static.billboard.com/img/2020/06/anuel-aa-1uq-emmanuel-0w8-53x53.jpg",
+            "isNew": false,
+            "lastPos": 103,
+            "peakPos": 8,
+            "rank": 158,
+            "title": "Emmanuel",
+            "weeks": 26
+        },
+        {
+            "artist": "Burl Ives",
+            "image": "https://charts-static.billboard.com/img/1996/12/burl-ives-tv0-rudolph-the-rednosed-reindeer-xl4-53x53.jpg",
+            "isNew": false,
+            "lastPos": 0,
+            "peakPos": 16,
+            "rank": 159,
+            "title": "Rudolph The Red-Nosed Reindeer",
+            "weeks": 43
+        },
+        {
+            "artist": "Ty Dolla $ign",
+            "image": "https://charts-static.billboard.com/img/2020/11/ty-dolla-sign-c0d-featuring-ty-dolla-$ign-q7i-53x53.jpg",
+            "isNew": false,
+            "lastPos": 105,
+            "peakPos": 4,
+            "rank": 160,
+            "title": "Featuring Ty Dolla $ign",
+            "weeks": 5
+        },
+        {
+            "artist": "Selena",
+            "image": "https://charts-static.billboard.com/img/2002/10/selena-ecf-ones-cg9-53x53.jpg",
+            "isNew": false,
+            "lastPos": 0,
+            "peakPos": 116,
+            "rank": 161,
+            "title": "Ones",
+            "weeks": 8
+        },
+        {
+            "artist": "Young Jeezy",
+            "image": "https://charts-static.billboard.com/img/2005/08/jeezy-g79-lets-get-it-thug-motivation-101-g8h-53x53.jpg",
+            "isNew": false,
+            "lastPos": 0,
+            "peakPos": 2,
+            "rank": 162,
+            "title": "Let's Get It: Thug Motivation 101",
+            "weeks": 48
+        },
+        {
+            "artist": "Lizzo",
+            "image": "https://charts-static.billboard.com/img/2019/05/lizzo-w3u-cuz-i-love-you-ao3-53x53.jpg",
+            "isNew": false,
+            "lastPos": 132,
+            "peakPos": 4,
+            "rank": 163,
+            "title": "Cuz I Love You",
+            "weeks": 84
+        },
+        {
+            "artist": "Bruno Mars",
+            "image": "https://charts-static.billboard.com/img/2010/10/bruno-mars-va7-180x180.jpg",
+            "isNew": false,
+            "lastPos": 61,
+            "peakPos": 3,
+            "rank": 164,
+            "title": "Doo-Wops & Hooligans",
+            "weeks": 498
+        },
+        {
+            "artist": "Polo G",
+            "image": "https://charts-static.billboard.com/img/2019/06/polo-g-g7p-die-a-legend-88b-53x53.jpg",
+            "isNew": false,
+            "lastPos": 149,
+            "peakPos": 6,
+            "rank": 165,
+            "title": "Die A Legend",
+            "weeks": 77
+        },
+        {
+            "artist": "JACKBOYS",
+            "image": "https://charts-static.billboard.com/img/2020/01/jackboys-000-jackboys-xm0-53x53.jpg",
+            "isNew": false,
+            "lastPos": 158,
+            "peakPos": 1,
+            "rank": 166,
+            "title": "JACKBOYS",
+            "weeks": 48
+        },
+        {
+            "artist": "Lil Tjay",
+            "image": "https://charts-static.billboard.com/img/2019/10/lil-tjay-dze-true-2-myself-ysl-53x53.jpg",
+            "isNew": false,
+            "lastPos": 154,
+            "peakPos": 5,
+            "rank": 167,
+            "title": "True 2 Myself",
+            "weeks": 59
+        },
+        {
+            "artist": "Mac Miller",
+            "image": "https://charts-static.billboard.com/img/2018/08/mac-miller-bjj-swimming-omx-53x53.jpg",
+            "isNew": false,
+            "lastPos": 129,
+            "peakPos": 3,
+            "rank": 168,
+            "title": "Swimming",
+            "weeks": 116
+        },
+        {
+            "artist": "Sam Hunt",
+            "image": "https://charts-static.billboard.com/img/2020/04/sam-hunt-24e-southside-blw-53x53.jpg",
+            "isNew": false,
+            "lastPos": 150,
+            "peakPos": 5,
+            "rank": 169,
+            "title": "SOUTHSIDE",
+            "weeks": 34
+        },
+        {
+            "artist": "XXXTENTACION",
+            "image": "https://charts-static.billboard.com/img/2017/09/xxxtentacion-dms-17-dqg-53x53.jpg",
+            "isNew": false,
+            "lastPos": 146,
+            "peakPos": 2,
+            "rank": 170,
+            "title": "17",
+            "weeks": 170
+        },
+        {
+            "artist": "Drake",
+            "image": "https://charts-static.billboard.com/img/2016/05/drake-zwl-views-f0a-53x53.jpg",
+            "isNew": false,
+            "lastPos": 153,
+            "peakPos": 1,
+            "rank": 171,
+            "title": "Views",
+            "weeks": 239
+        },
+        {
+            "artist": "Frank Ocean",
+            "image": "https://charts-static.billboard.com/img/2016/09/frank-ocean-rv3-blonde-box-53x53.jpg",
+            "isNew": false,
+            "lastPos": 144,
+            "peakPos": 1,
+            "rank": 172,
+            "title": "Blonde",
+            "weeks": 206
+        },
+        {
+            "artist": "Neil Diamond With The London Symphony Orchestra",
+            "image": "https://charts-static.billboard.com/img/2020/12/neil-diamond-e2x-classic-diamonds-4n2-53x53.jpg",
+            "isNew": true,
+            "lastPos": 0,
+            "peakPos": 173,
+            "rank": 173,
+            "title": "Classic Diamonds",
+            "weeks": 1
+        },
+        {
+            "artist": "NF",
+            "image": "https://charts-static.billboard.com/img/2019/08/nf-rht-the-search-1iq-53x53.jpg",
+            "isNew": false,
+            "lastPos": 147,
+            "peakPos": 1,
+            "rank": 174,
+            "title": "The Search",
+            "weeks": 70
+        },
+        {
+            "artist": "YoungBoy Never Broke Again",
+            "image": "https://charts-static.billboard.com/img/2017/06/youngboy-never-broke-again-n3g-53x53.jpg",
+            "isNew": false,
+            "lastPos": 151,
+            "peakPos": 1,
+            "rank": 175,
+            "title": "AI YoungBoy 2",
+            "weeks": 59
+        },
+        {
+            "artist": "Justin Bieber",
+            "image": "https://charts-static.billboard.com/img/2009/07/justin-bieber-4oh-53x53.jpg",
+            "isNew": false,
+            "lastPos": 179,
+            "peakPos": 1,
+            "rank": 176,
+            "title": "Changes",
+            "weeks": 41
+        },
+        {
+            "artist": "Young Thug",
+            "image": "https://charts-static.billboard.com/img/2019/08/young-thug-e62-so-much-fun-ogx-53x53.jpg",
+            "isNew": false,
+            "lastPos": 155,
+            "peakPos": 1,
+            "rank": 177,
+            "title": "So Much Fun",
+            "weeks": 67
+        },
+        {
+            "artist": "HARDY",
+            "image": "https://www.billboard.com/assets/1607630108/images/charts/bb-placeholder-new.jpg?9e3bc4af6cc813a2f09d",
+            "isNew": false,
+            "lastPos": 157,
+            "peakPos": 24,
+            "rank": 178,
+            "title": "A Rock",
+            "weeks": 12
+        },
+        {
+            "artist": "Tyler Childers",
+            "image": "https://charts-static.billboard.com/img/2017/08/tyler-childers-j2u-purgatory-pz3-53x53.jpg",
+            "isNew": false,
+            "lastPos": 175,
+            "peakPos": 106,
+            "rank": 179,
+            "title": "Purgatory",
+            "weeks": 28
+        },
+        {
+            "artist": "NLE Choppa",
+            "image": "https://charts-static.billboard.com/img/2020/08/nle-choppa-dh1-top-shotta-zts-53x53.jpg",
+            "isNew": false,
+            "lastPos": 156,
+            "peakPos": 10,
+            "rank": 180,
+            "title": "Top Shotta",
+            "weeks": 16
+        },
+        {
+            "artist": "Bill Withers",
+            "image": "https://charts-static.billboard.com/img/2012/08/bill-withers-lrn-the-best-of-bill-withers-lean-on-me-6ve-53x53.jpg",
+            "isNew": false,
+            "lastPos": 0,
+            "peakPos": 131,
+            "rank": 181,
+            "title": "The Best Of Bill Withers: Lean On Me",
+            "weeks": 2
+        },
+        {
+            "artist": "Eagles",
+            "image": "https://charts-static.billboard.com/img/1976/03/eagles-co1-their-greatest-hits-19711975-53g-53x53.jpg",
+            "isNew": false,
+            "lastPos": 181,
+            "peakPos": 1,
+            "rank": 182,
+            "title": "Their Greatest Hits 1971-1975",
+            "weeks": 354
+        },
+        {
+            "artist": "Justin Bieber",
+            "image": "https://charts-static.billboard.com/img/2009/07/justin-bieber-4oh-53x53.jpg",
+            "isNew": false,
+            "lastPos": 0,
+            "peakPos": 1,
+            "rank": 183,
+            "title": "Under The Mistletoe",
+            "weeks": 50
+        },
+        {
+            "artist": "Ozuna",
+            "image": "https://charts-static.billboard.com/img/2016/04/ozuna-gin-53x53.jpg",
+            "isNew": false,
+            "lastPos": 169,
+            "peakPos": 17,
+            "rank": 184,
+            "title": "ENOC",
+            "weeks": 12
+        },
+        {
+            "artist": "Kodak Black",
+            "image": "https://charts-static.billboard.com/img/2020/11/kodak-black-3si-bill-israel-lfy-53x53.jpg",
+            "isNew": false,
+            "lastPos": 42,
+            "peakPos": 42,
+            "rank": 185,
+            "title": "Bill Israel",
+            "weeks": 3
+        },
+        {
+            "artist": "Elvis Presley",
+            "image": "https://charts-static.billboard.com/img/2007/01/elvis-presley-nq7-the-essential-elvis-presley-jqg-53x53.jpg",
+            "isNew": false,
+            "lastPos": 140,
+            "peakPos": 42,
+            "rank": 186,
+            "title": "The Essential Elvis Presley",
+            "weeks": 74
+        },
+        {
+            "artist": "Trippie Redd",
+            "image": "https://charts-static.billboard.com/img/2019/12/trippie-redd-q58-a-love-letter-to-you-4-vg0-53x53.jpg",
+            "isNew": false,
+            "lastPos": 171,
+            "peakPos": 1,
+            "rank": 187,
+            "title": "A Love Letter To You 4",
+            "weeks": 53
+        },
+        {
+            "artist": "A Boogie Wit da Hoodie",
+            "image": "https://charts-static.billboard.com/img/2017/05/a-boogie-wit-da-hoodie-53x53.jpg",
+            "isNew": false,
+            "lastPos": 168,
+            "peakPos": 2,
+            "rank": 188,
+            "title": "Artist 2.0",
+            "weeks": 41
+        },
+        {
+            "artist": "Lil Nas X",
+            "image": "https://charts-static.billboard.com/img/2019/07/lil-nas-x-8wa-7-ep-ug0-53x53.jpg",
+            "isNew": false,
+            "lastPos": 198,
+            "peakPos": 2,
+            "rank": 189,
+            "title": "7 (EP)",
+            "weeks": 68
+        },
+        {
+            "artist": "Big Sean",
+            "image": "https://charts-static.billboard.com/img/2011/01/big-sean-lrg-53x53.jpg",
+            "isNew": false,
+            "lastPos": 199,
+            "peakPos": 1,
+            "rank": 190,
+            "title": "Detroit 2",
+            "weeks": 12
+        },
+        {
+            "artist": "Lady Gaga",
+            "image": "https://charts-static.billboard.com/img/2020/06/lady-gaga-b8x-chromatica-vi5-53x53.jpg",
+            "isNew": false,
+            "lastPos": 165,
+            "peakPos": 1,
+            "rank": 191,
+            "title": "Chromatica",
+            "weeks": 26
+        },
+        {
+            "artist": "Travis Scott",
+            "image": "https://charts-static.billboard.com/img/2016/09/travis-scott-jll-birds-in-the-trap-sing-mcknight-ogv-53x53.jpg",
+            "isNew": false,
+            "lastPos": 184,
+            "peakPos": 1,
+            "rank": 192,
+            "title": "Birds In The Trap Sing McKnight",
+            "weeks": 220
+        },
+        {
+            "artist": "Zac Brown Band",
+            "image": "https://charts-static.billboard.com/img/2014/11/zac-brown-band-jc8-greatest-hits-so-far-mbj-53x53.jpg",
+            "isNew": false,
+            "lastPos": 163,
+            "peakPos": 20,
+            "rank": 193,
+            "title": "Greatest Hits So Far...",
+            "weeks": 285
+        },
+        {
+            "artist": "Maren Morris",
+            "image": "https://charts-static.billboard.com/img/2019/03/maren-morris-knd-girl-yzp-53x53.jpg",
+            "isNew": false,
+            "lastPos": 161,
+            "peakPos": 4,
+            "rank": 194,
+            "title": "GIRL",
+            "weeks": 90
+        },
+        {
+            "artist": "Tyler, The Creator",
+            "image": "https://charts-static.billboard.com/img/2019/06/tyler-the-creator-556-igor-z0p-53x53.jpg",
+            "isNew": false,
+            "lastPos": 0,
+            "peakPos": 1,
+            "rank": 195,
+            "title": "IGOR",
+            "weeks": 65
+        },
+        {
+            "artist": "Conan Gray",
+            "image": "https://charts-static.billboard.com/img/2020/04/conan-gray-000-kid-krow-885-53x53.jpg",
+            "isNew": false,
+            "lastPos": 173,
+            "peakPos": 5,
+            "rank": 196,
+            "title": "Kid Krow",
+            "weeks": 24
+        },
+        {
+            "artist": "Pentatonix",
+            "image": "https://charts-static.billboard.com/img/2016/11/pentatonix-5l7-a-pentatonix-christmas-0tc-53x53.jpg",
+            "isNew": false,
+            "lastPos": 0,
+            "peakPos": 1,
+            "rank": 197,
+            "title": "A Pentatonix Christmas",
+            "weeks": 36
+        },
+        {
+            "artist": "Shawn Mendes",
+            "image": "https://charts-static.billboard.com/img/2018/06/shawn-mendes-drf-shawn-mendes-s5d-53x53.jpg",
+            "isNew": false,
+            "lastPos": 0,
+            "peakPos": 1,
+            "rank": 198,
+            "title": "Shawn Mendes",
+            "weeks": 127
+        },
+        {
+            "artist": "Various Artists",
+            "image": "https://charts-static.billboard.com/img/2019/07/various-artists-000-dreamville-and-j-cole-revenge-of-the-dreamers-iii-yzz-53x53.jpg",
+            "isNew": false,
+            "lastPos": 196,
+            "peakPos": 1,
+            "rank": 199,
+            "title": "Dreamville & J. Cole: Revenge Of The Dreamers III",
+            "weeks": 73
+        },
+        {
+            "artist": "Blake Shelton",
+            "image": "https://charts-static.billboard.com/img/2019/12/blake-shelton-m3d-fully-loaded-gods-country-817-53x53.jpg",
+            "isNew": false,
+            "lastPos": 70,
+            "peakPos": 2,
+            "rank": 200,
+            "title": "Fully Loaded: God's Country",
+            "weeks": 50
+        }
+    ],
+    "name": "the billboard 200",
+    "nextDate": "2020-12-12",
+    "previousDate": "2020-11-28",
+    "title": "The Billboard 200",
+    "year": null
+}

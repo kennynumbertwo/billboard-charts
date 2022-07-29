@@ -1,0 +1,612 @@
+{
+    "_max_retries": 5,
+    "_timeout": 25,
+    "date": "2022-04-09",
+    "entries": [
+        {
+            "artist": "Sam Hunt",
+            "image": null,
+            "isNew": false,
+            "lastPos": 2,
+            "peakPos": 1,
+            "rank": 1,
+            "title": "23",
+            "weeks": 30
+        },
+        {
+            "artist": "Cody Johnson",
+            "image": null,
+            "isNew": false,
+            "lastPos": 1,
+            "peakPos": 1,
+            "rank": 2,
+            "title": "'Til You Can't",
+            "weeks": 27
+        },
+        {
+            "artist": "Elle King & Miranda Lambert",
+            "image": null,
+            "isNew": false,
+            "lastPos": 3,
+            "peakPos": 3,
+            "rank": 3,
+            "title": "Drunk (And I Don't Wanna Go Home)",
+            "weeks": 45
+        },
+        {
+            "artist": "Dierks Bentley, Breland & HARDY",
+            "image": null,
+            "isNew": false,
+            "lastPos": 4,
+            "peakPos": 4,
+            "rank": 4,
+            "title": "Beers On Me",
+            "weeks": 36
+        },
+        {
+            "artist": "Cole Swindell / Lainey Wilson",
+            "image": null,
+            "isNew": false,
+            "lastPos": 5,
+            "peakPos": 5,
+            "rank": 5,
+            "title": "Never Say Never",
+            "weeks": 20
+        },
+        {
+            "artist": "Dustin Lynch Featuring MacKenzie Porter",
+            "image": null,
+            "isNew": false,
+            "lastPos": 6,
+            "peakPos": 1,
+            "rank": 6,
+            "title": "Thinking 'Bout You",
+            "weeks": 48
+        },
+        {
+            "artist": "Luke Combs",
+            "image": null,
+            "isNew": false,
+            "lastPos": 9,
+            "peakPos": 7,
+            "rank": 7,
+            "title": "Doin' This",
+            "weeks": 20
+        },
+        {
+            "artist": "Eric Church",
+            "image": null,
+            "isNew": false,
+            "lastPos": 8,
+            "peakPos": 8,
+            "rank": 8,
+            "title": "Heart On Fire",
+            "weeks": 38
+        },
+        {
+            "artist": "Carly Pearce & Ashley McBryde",
+            "image": null,
+            "isNew": false,
+            "lastPos": 10,
+            "peakPos": 9,
+            "rank": 9,
+            "title": "Never Wanted To Be That Girl",
+            "weeks": 29
+        },
+        {
+            "artist": "Keith Urban",
+            "image": null,
+            "isNew": false,
+            "lastPos": 11,
+            "peakPos": 10,
+            "rank": 10,
+            "title": "Wild Hearts",
+            "weeks": 33
+        },
+        {
+            "artist": "Thomas Rhett",
+            "image": null,
+            "isNew": false,
+            "lastPos": 12,
+            "peakPos": 11,
+            "rank": 11,
+            "title": "Slow Down Summer",
+            "weeks": 22
+        },
+        {
+            "artist": "Blake Shelton",
+            "image": null,
+            "isNew": false,
+            "lastPos": 13,
+            "peakPos": 12,
+            "rank": 12,
+            "title": "Come Back As A Country Boy",
+            "weeks": 27
+        },
+        {
+            "artist": "HARDY",
+            "image": null,
+            "isNew": false,
+            "lastPos": 14,
+            "peakPos": 13,
+            "rank": 13,
+            "title": "Give Heaven Some Hell",
+            "weeks": 57
+        },
+        {
+            "artist": "Walker Hayes",
+            "image": null,
+            "isNew": false,
+            "lastPos": 15,
+            "peakPos": 14,
+            "rank": 14,
+            "title": "AA",
+            "weeks": 19
+        },
+        {
+            "artist": "Tim McGraw",
+            "image": null,
+            "isNew": false,
+            "lastPos": 17,
+            "peakPos": 15,
+            "rank": 15,
+            "title": "7500 OBO",
+            "weeks": 35
+        },
+        {
+            "artist": "Jason Aldean",
+            "image": null,
+            "isNew": false,
+            "lastPos": 19,
+            "peakPos": 16,
+            "rank": 16,
+            "title": "Trouble With A Heartbreak",
+            "weeks": 12
+        },
+        {
+            "artist": "Miranda Lambert",
+            "image": null,
+            "isNew": false,
+            "lastPos": 16,
+            "peakPos": 16,
+            "rank": 17,
+            "title": "If I Was A Cowboy",
+            "weeks": 25
+        },
+        {
+            "artist": "Maren Morris",
+            "image": null,
+            "isNew": false,
+            "lastPos": 18,
+            "peakPos": 18,
+            "rank": 18,
+            "title": "Circles Around This Town",
+            "weeks": 13
+        },
+        {
+            "artist": "Jake Owen",
+            "image": null,
+            "isNew": false,
+            "lastPos": 20,
+            "peakPos": 19,
+            "rank": 19,
+            "title": "Best Thing Since Backroads",
+            "weeks": 35
+        },
+        {
+            "artist": "Morgan Wallen",
+            "image": null,
+            "isNew": false,
+            "lastPos": 24,
+            "peakPos": 20,
+            "rank": 20,
+            "title": "Wasted On You",
+            "weeks": 9
+        },
+        {
+            "artist": "Scotty McCreery",
+            "image": null,
+            "isNew": false,
+            "lastPos": 21,
+            "peakPos": 21,
+            "rank": 21,
+            "title": "Damn Strait",
+            "weeks": 24
+        },
+        {
+            "artist": "ERNEST Featuring Morgan Wallen",
+            "image": null,
+            "isNew": false,
+            "lastPos": 22,
+            "peakPos": 22,
+            "rank": 22,
+            "title": "Flower Shops",
+            "weeks": 12
+        },
+        {
+            "artist": "Luke Bryan",
+            "image": null,
+            "isNew": false,
+            "lastPos": 23,
+            "peakPos": 21,
+            "rank": 23,
+            "title": "Up",
+            "weeks": 26
+        },
+        {
+            "artist": "Parmalee",
+            "image": null,
+            "isNew": false,
+            "lastPos": 25,
+            "peakPos": 24,
+            "rank": 24,
+            "title": "Take My Name",
+            "weeks": 25
+        },
+        {
+            "artist": "Chris Young & Mitchell Tenpenny",
+            "image": null,
+            "isNew": false,
+            "lastPos": 26,
+            "peakPos": 25,
+            "rank": 25,
+            "title": "At The End Of A Bar",
+            "weeks": 29
+        },
+        {
+            "artist": "Dylan Scott",
+            "image": null,
+            "isNew": false,
+            "lastPos": 28,
+            "peakPos": 26,
+            "rank": 26,
+            "title": "New Truck",
+            "weeks": 31
+        },
+        {
+            "artist": "Frank Ray",
+            "image": null,
+            "isNew": false,
+            "lastPos": 27,
+            "peakPos": 27,
+            "rank": 27,
+            "title": "Country'd Look Good On You",
+            "weeks": 32
+        },
+        {
+            "artist": "Jon Pardi",
+            "image": null,
+            "isNew": false,
+            "lastPos": 30,
+            "peakPos": 28,
+            "rank": 28,
+            "title": "Last Night Lonely",
+            "weeks": 7
+        },
+        {
+            "artist": "Justin Moore",
+            "image": null,
+            "isNew": false,
+            "lastPos": 31,
+            "peakPos": 29,
+            "rank": 29,
+            "title": "With A Woman You Love",
+            "weeks": 23
+        },
+        {
+            "artist": "Kenny Chesney",
+            "image": null,
+            "isNew": false,
+            "lastPos": 29,
+            "peakPos": 29,
+            "rank": 30,
+            "title": "Everyone She Knows",
+            "weeks": 8
+        },
+        {
+            "artist": "Jackson Dean",
+            "image": null,
+            "isNew": false,
+            "lastPos": 44,
+            "peakPos": 31,
+            "rank": 31,
+            "title": "Don't Come Lookin'",
+            "weeks": 5
+        },
+        {
+            "artist": "Dustin Lynch",
+            "image": null,
+            "isNew": false,
+            "lastPos": 32,
+            "peakPos": 32,
+            "rank": 32,
+            "title": "Party Mode",
+            "weeks": 8
+        },
+        {
+            "artist": "Carrie Underwood",
+            "image": null,
+            "isNew": false,
+            "lastPos": 33,
+            "peakPos": 25,
+            "rank": 33,
+            "title": "Ghost Story",
+            "weeks": 3
+        },
+        {
+            "artist": "Lee Brice",
+            "image": null,
+            "isNew": false,
+            "lastPos": 36,
+            "peakPos": 34,
+            "rank": 34,
+            "title": "Soul",
+            "weeks": 18
+        },
+        {
+            "artist": "Tenille Arts",
+            "image": null,
+            "isNew": false,
+            "lastPos": 34,
+            "peakPos": 34,
+            "rank": 35,
+            "title": "Back Then, Right Now",
+            "weeks": 44
+        },
+        {
+            "artist": "Ingrid Andress With Sam Hunt",
+            "image": null,
+            "isNew": false,
+            "lastPos": 39,
+            "peakPos": 36,
+            "rank": 36,
+            "title": "Wishful Drinking",
+            "weeks": 14
+        },
+        {
+            "artist": "Mitchell Tenpenny",
+            "image": null,
+            "isNew": false,
+            "lastPos": 37,
+            "peakPos": 37,
+            "rank": 37,
+            "title": "Truth About You",
+            "weeks": 13
+        },
+        {
+            "artist": "Jelly Roll",
+            "image": null,
+            "isNew": false,
+            "lastPos": 55,
+            "peakPos": 38,
+            "rank": 38,
+            "title": "Son Of A Sinner",
+            "weeks": 5
+        },
+        {
+            "artist": "Morgan Wade",
+            "image": null,
+            "isNew": false,
+            "lastPos": 40,
+            "peakPos": 39,
+            "rank": 39,
+            "title": "Wilder Days",
+            "weeks": 23
+        },
+        {
+            "artist": "Gabby Barrett",
+            "image": null,
+            "isNew": false,
+            "lastPos": 41,
+            "peakPos": 40,
+            "rank": 40,
+            "title": "Pick Me Up",
+            "weeks": 8
+        },
+        {
+            "artist": "Old Dominion",
+            "image": null,
+            "isNew": false,
+            "lastPos": 38,
+            "peakPos": 38,
+            "rank": 41,
+            "title": "No Hard Feelings",
+            "weeks": 16
+        },
+        {
+            "artist": "Zac Brown Band",
+            "image": null,
+            "isNew": false,
+            "lastPos": 42,
+            "peakPos": 42,
+            "rank": 42,
+            "title": "Out In The Middle",
+            "weeks": 9
+        },
+        {
+            "artist": "Midland",
+            "image": null,
+            "isNew": false,
+            "lastPos": 43,
+            "peakPos": 42,
+            "rank": 43,
+            "title": "Sunrise Tells The Story",
+            "weeks": 26
+        },
+        {
+            "artist": "Chris Janson",
+            "image": null,
+            "isNew": false,
+            "lastPos": 46,
+            "peakPos": 38,
+            "rank": 44,
+            "title": "Bye Mom",
+            "weeks": 27
+        },
+        {
+            "artist": "Brett Young",
+            "image": null,
+            "isNew": false,
+            "lastPos": 45,
+            "peakPos": 45,
+            "rank": 45,
+            "title": "You Didn't",
+            "weeks": 19
+        },
+        {
+            "artist": "Priscilla Block",
+            "image": null,
+            "isNew": false,
+            "lastPos": 47,
+            "peakPos": 46,
+            "rank": 46,
+            "title": "My Bar",
+            "weeks": 7
+        },
+        {
+            "artist": "Jimmie Allen",
+            "image": null,
+            "isNew": false,
+            "lastPos": 48,
+            "peakPos": 47,
+            "rank": 47,
+            "title": "Down Home",
+            "weeks": 3
+        },
+        {
+            "artist": "Conner Smith",
+            "image": null,
+            "isNew": false,
+            "lastPos": 50,
+            "peakPos": 48,
+            "rank": 48,
+            "title": "Learn From It",
+            "weeks": 12
+        },
+        {
+            "artist": "Michael Ray",
+            "image": null,
+            "isNew": false,
+            "lastPos": 52,
+            "peakPos": 49,
+            "rank": 49,
+            "title": "Holy Water",
+            "weeks": 4
+        },
+        {
+            "artist": "Lady A",
+            "image": null,
+            "isNew": false,
+            "lastPos": 51,
+            "peakPos": 50,
+            "rank": 50,
+            "title": "What A Song Can Do",
+            "weeks": 7
+        },
+        {
+            "artist": "Eli Young Band",
+            "image": null,
+            "isNew": false,
+            "lastPos": 54,
+            "peakPos": 51,
+            "rank": 51,
+            "title": "Love Talking",
+            "weeks": 5
+        },
+        {
+            "artist": "Dillon Carmichael",
+            "image": null,
+            "isNew": false,
+            "lastPos": 49,
+            "peakPos": 49,
+            "rank": 52,
+            "title": "Son Of A",
+            "weeks": 9
+        },
+        {
+            "artist": "Jameson Rodgers",
+            "image": null,
+            "isNew": false,
+            "lastPos": 56,
+            "peakPos": 53,
+            "rank": 53,
+            "title": "Missing One",
+            "weeks": 7
+        },
+        {
+            "artist": "Ryan Hurd",
+            "image": null,
+            "isNew": false,
+            "lastPos": 59,
+            "peakPos": 54,
+            "rank": 54,
+            "title": "Pass It On",
+            "weeks": 2
+        },
+        {
+            "artist": "Kameron Marlowe",
+            "image": null,
+            "isNew": false,
+            "lastPos": 53,
+            "peakPos": 53,
+            "rank": 55,
+            "title": "Giving You Up",
+            "weeks": 19
+        },
+        {
+            "artist": "Adam Doleac",
+            "image": null,
+            "isNew": false,
+            "lastPos": 57,
+            "peakPos": 56,
+            "rank": 56,
+            "title": "Drinkin' It Wrong",
+            "weeks": 2
+        },
+        {
+            "artist": "Chayce Beckham & Lindsay Ell",
+            "image": null,
+            "isNew": false,
+            "lastPos": 58,
+            "peakPos": 57,
+            "rank": 57,
+            "title": "Can't Do Without Me",
+            "weeks": 4
+        },
+        {
+            "artist": "Kassi Ashton",
+            "image": null,
+            "isNew": true,
+            "lastPos": 0,
+            "peakPos": 58,
+            "rank": 58,
+            "title": "Dates In Pickup Trucks",
+            "weeks": 1
+        },
+        {
+            "artist": "Joe Nichols",
+            "image": null,
+            "isNew": true,
+            "lastPos": 0,
+            "peakPos": 59,
+            "rank": 59,
+            "title": "Good Day For Living",
+            "weeks": 1
+        },
+        {
+            "artist": "Randy Houser",
+            "image": null,
+            "isNew": false,
+            "lastPos": 0,
+            "peakPos": 58,
+            "rank": 60,
+            "title": "Note To Self",
+            "weeks": 2
+        }
+    ],
+    "name": "country-airplay",
+    "nextDate": null,
+    "previousDate": null,
+    "title": "Country Airplay",
+    "year": null
+}
